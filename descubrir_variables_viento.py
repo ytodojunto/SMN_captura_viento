@@ -57,17 +57,27 @@ def listar_archivos(prefix: str) -> list[str]:
     )
 
 
+def _solo_numericas(prefijos: list[str]) -> list[str]:
+    """Se queda solo con carpetas cuyo último segmento es puramente
+    numérico (año/mes/día/hora reales) — descarta cosas tipo
+    'testing/' que hay mezcladas en el bucket y que si no, al
+    ordenar alfabéticamente, quedan "después" de los años y se
+    toman por error como lo más reciente."""
+    salida = [p for p in prefijos if p.strip("/").split("/")[-1].isdigit()]
+    return salida or prefijos  # si por algún motivo no queda ninguna, no rompas
+
+
 def encontrar_corrida_mas_reciente() -> str:
     base = "DATA/WRF/DET/"
-    anios = listar_subprefijos(base)
+    anios = _solo_numericas(listar_subprefijos(base))
     if not anios:
-        raise RuntimeError(f"No encontré subcarpetas en {base}")
+        raise RuntimeError(f"No encontré subcarpetas numéricas en {base}")
     anio = anios[-1]
-    meses = listar_subprefijos(anio)
+    meses = _solo_numericas(listar_subprefijos(anio))
     mes = meses[-1]
-    dias = listar_subprefijos(mes)
+    dias = _solo_numericas(listar_subprefijos(mes))
     dia = dias[-1]
-    horas = listar_subprefijos(dia)
+    horas = _solo_numericas(listar_subprefijos(dia))
     hora = horas[-1]
     print(f"Corrida más reciente encontrada: {hora}")
     return hora
@@ -85,14 +95,41 @@ def main():
         print("No hay archivos, no puedo seguir.")
         sys.exit(1)
 
-    archivo_clave = archivos[0]  # el de hora de pronóstico más chica
+    # Preferimos el producto horario "01H" (el que vimos en el
+    # descubrimiento anterior). Si esta corrida no lo tiene (algunas
+    # carpetas mezclan otros productos: 00H, 24M, etc.), avisamos y
+    # seguimos con lo que haya para no colgarnos.
+    horarios = [a for a in archivos if "_01H_" in a]
+    if horarios:
+        archivos_a_usar = horarios
+    else:
+        print("\n(No encontré archivos '_01H_' en esta corrida, uso lo que haya.)")
+        archivos_a_usar = archivos
+
+    archivo_clave = sorted(archivos_a_usar)[0]  # el de hora de pronóstico más chica
     print(f"\n=== Bajando {archivo_clave} ===")
     resp = requests.get(BASE + archivo_clave, timeout=120)
+    print(f"HTTP {resp.status_code}, content-type={resp.headers.get('content-type')}, "
+          f"content-length={resp.headers.get('content-length')}")
     resp.raise_for_status()
+
+    contenido = resp.content
+    print(f"Bajado: {len(contenido) / 1024:.0f} KB, primeros bytes: {contenido[:16]!r}")
+
+    # Un NetCDF clásico arranca con b'CDF', uno HDF5/NetCDF4 con la
+    # firma HDF5 (\x89HDF). Si no viene ninguna de las dos, algo salió
+    # mal en la descarga (bucket, permisos, red) y no tiene sentido
+    # que netCDF4 intente abrirlo — mejor un mensaje claro que un
+    # traceback confuso.
+    if not (contenido.startswith(b"CDF") or contenido.startswith(b"\x89HDF")):
+        print("\nEl contenido bajado NO parece un NetCDF válido (revisar HTTP/permisos del bucket).")
+        print("Primeros 200 bytes como texto (por si es un mensaje de error en XML/HTML):")
+        print(contenido[:200])
+        sys.exit(1)
+
     ruta_local = "/tmp/muestra.nc"
     with open(ruta_local, "wb") as f:
-        f.write(resp.content)
-    print(f"Bajado: {len(resp.content) / 1024:.0f} KB")
+        f.write(contenido)
 
     print("\n=== Abriendo con netCDF4 ===")
     from netCDF4 import Dataset
