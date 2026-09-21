@@ -1,0 +1,3528 @@
+{
+  "capturado_en": "2026-09-21T21:11:33.524429+00:00",
+  "ciclo_init": "2026-09-21T18:00:00+00:00",
+  "archivos_procesados": 73,
+  "archivos_fallidos": [],
+  "estaciones": {
+    "Martín García": [
+      {
+        "hora_pronostico": 0,
+        "valido_para": "2026-09-21T18:00:00+00:00",
+        "viento_10m_ms": 9.138230323791504,
+        "direccion_10m_deg": 235.04734802246094
+      },
+      {
+        "hora_pronostico": 1,
+        "valido_para": "2026-09-21T19:00:00+00:00",
+        "viento_10m_ms": 8.431266784667969,
+        "direccion_10m_deg": 228.25746154785156
+      },
+      {
+        "hora_pronostico": 2,
+        "valido_para": "2026-09-21T20:00:00+00:00",
+        "viento_10m_ms": 8.356842041015625,
+        "direccion_10m_deg": 231.42898559570312
+      },
+      {
+        "hora_pronostico": 3,
+        "valido_para": "2026-09-21T21:00:00+00:00",
+        "viento_10m_ms": 8.110854148864746,
+        "direccion_10m_deg": 222.03579711914062
+      },
+      {
+        "hora_pronostico": 4,
+        "valido_para": "2026-09-21T22:00:00+00:00",
+        "viento_10m_ms": 7.906518936157227,
+        "direccion_10m_deg": 220.65455627441406
+      },
+      {
+        "hora_pronostico": 5,
+        "valido_para": "2026-09-21T23:00:00+00:00",
+        "viento_10m_ms": 7.845697402954102,
+        "direccion_10m_deg": 207.42153930664062
+      },
+      {
+        "hora_pronostico": 6,
+        "valido_para": "2026-09-22T00:00:00+00:00",
+        "viento_10m_ms": 6.408581256866455,
+        "direccion_10m_deg": 207.117919921875
+      },
+      {
+        "hora_pronostico": 7,
+        "valido_para": "2026-09-22T01:00:00+00:00",
+        "viento_10m_ms": 7.4585113525390625,
+        "direccion_10m_deg": 198.64779663085938
+      },
+      {
+        "hora_pronostico": 8,
+        "valido_para": "2026-09-22T02:00:00+00:00",
+        "viento_10m_ms": 7.175601959228516,
+        "direccion_10m_deg": 200.27093505859375
+      },
+      {
+        "hora_pronostico": 9,
+        "valido_para": "2026-09-22T03:00:00+00:00",
+        "viento_10m_ms": 6.582493305206299,
+        "direccion_10m_deg": 192.69448852539062
+      },
+      {
+        "hora_pronostico": 10,
+        "valido_para": "2026-09-22T04:00:00+00:00",
+        "viento_10m_ms": 6.188349723815918,
+        "direccion_10m_deg": 197.06134033203125
+      },
+      {
+        "hora_pronostico": 11,
+        "valido_para": "2026-09-22T05:00:00+00:00",
+        "viento_10m_ms": 6.633229732513428,
+        "direccion_10m_deg": 206.783203125
+      },
+      {
+        "hora_pronostico": 12,
+        "valido_para": "2026-09-22T06:00:00+00:00",
+        "viento_10m_ms": 6.4778900146484375,
+        "direccion_10m_deg": 206.5541534423828
+      },
+      {
+        "hora_pronostico": 13,
+        "valido_para": "2026-09-22T07:00:00+00:00",
+        "viento_10m_ms": 6.778748035430908,
+        "direccion_10m_deg": 207.25296020507812
+      },
+      {
+        "hora_pronostico": 14,
+        "valido_para": "2026-09-22T08:00:00+00:00",
+        "viento_10m_ms": 6.808953762054443,
+        "direccion_10m_deg": 207.42962646484375
+      },
+      {
+        "hora_pronostico": 15,
+        "valido_para": "2026-09-22T09:00:00+00:00",
+        "viento_10m_ms": 6.742416858673096,
+        "direccion_10m_deg": 208.406494140625
+      },
+      {
+        "hora_pronostico": 16,
+        "valido_para": "2026-09-22T10:00:00+00:00",
+        "viento_10m_ms": 6.345124244689941,
+        "direccion_10m_deg": 209.26129150390625
+      },
+      {
+        "hora_pronostico": 17,
+        "valido_para": "2026-09-22T11:00:00+00:00",
+        "viento_10m_ms": 6.386739253997803,
+        "direccion_10m_deg": 208.22999572753906
+      },
+      {
+        "hora_pronostico": 18,
+        "valido_para": "2026-09-22T12:00:00+00:00",
+        "viento_10m_ms": 5.740222454071045,
+        "direccion_10m_deg": 206.39950561523438
+      },
+      {
+        "hora_pronostico": 19,
+        "valido_para": "2026-09-22T13:00:00+00:00",
+        "viento_10m_ms": 4.786895751953125,
+        "direccion_10m_deg": 201.0106201171875
+      },
+      {
+        "hora_pronostico": 20,
+        "valido_para": "2026-09-22T14:00:00+00:00",
+        "viento_10m_ms": 3.7466866970062256,
+        "direccion_10m_deg": 208.43453979492188
+      },
+      {
+        "hora_pronostico": 21,
+        "valido_para": "2026-09-22T15:00:00+00:00",
+        "viento_10m_ms": 3.2989039421081543,
+        "direccion_10m_deg": 217.18759155273438
+      },
+      {
+        "hora_pronostico": 22,
+        "valido_para": "2026-09-22T16:00:00+00:00",
+        "viento_10m_ms": 2.913301467895508,
+        "direccion_10m_deg": 217.81808471679688
+      },
+      {
+        "hora_pronostico": 23,
+        "valido_para": "2026-09-22T17:00:00+00:00",
+        "viento_10m_ms": 2.4555795192718506,
+        "direccion_10m_deg": 215.51461791992188
+      },
+      {
+        "hora_pronostico": 24,
+        "valido_para": "2026-09-22T18:00:00+00:00",
+        "viento_10m_ms": 0.53812175989151,
+        "direccion_10m_deg": 222.29368591308594
+      },
+      {
+        "hora_pronostico": 25,
+        "valido_para": "2026-09-22T19:00:00+00:00",
+        "viento_10m_ms": 0.0,
+        "direccion_10m_deg": 127.96387481689453
+      },
+      {
+        "hora_pronostico": 26,
+        "valido_para": "2026-09-22T20:00:00+00:00",
+        "viento_10m_ms": 0.45043542981147766,
+        "direccion_10m_deg": 68.14669036865234
+      },
+      {
+        "hora_pronostico": 27,
+        "valido_para": "2026-09-22T21:00:00+00:00",
+        "viento_10m_ms": 0.8200525641441345,
+        "direccion_10m_deg": 32.432342529296875
+      },
+      {
+        "hora_pronostico": 28,
+        "valido_para": "2026-09-22T22:00:00+00:00",
+        "viento_10m_ms": 0.1433524489402771,
+        "direccion_10m_deg": 21.805030822753906
+      },
+      {
+        "hora_pronostico": 29,
+        "valido_para": "2026-09-22T23:00:00+00:00",
+        "viento_10m_ms": 0.5293835401535034,
+        "direccion_10m_deg": 13.936050415039062
+      },
+      {
+        "hora_pronostico": 30,
+        "valido_para": "2026-09-23T00:00:00+00:00",
+        "viento_10m_ms": 1.3366831541061401,
+        "direccion_10m_deg": 13.952461242675781
+      },
+      {
+        "hora_pronostico": 31,
+        "valido_para": "2026-09-23T01:00:00+00:00",
+        "viento_10m_ms": 1.6815447807312012,
+        "direccion_10m_deg": 22.984481811523438
+      },
+      {
+        "hora_pronostico": 32,
+        "valido_para": "2026-09-23T02:00:00+00:00",
+        "viento_10m_ms": 2.0942749977111816,
+        "direccion_10m_deg": 19.686569213867188
+      },
+      {
+        "hora_pronostico": 33,
+        "valido_para": "2026-09-23T03:00:00+00:00",
+        "viento_10m_ms": 2.3253889083862305,
+        "direccion_10m_deg": 15.891105651855469
+      },
+      {
+        "hora_pronostico": 34,
+        "valido_para": "2026-09-23T04:00:00+00:00",
+        "viento_10m_ms": 2.625884532928467,
+        "direccion_10m_deg": 16.72948455810547
+      },
+      {
+        "hora_pronostico": 35,
+        "valido_para": "2026-09-23T05:00:00+00:00",
+        "viento_10m_ms": 2.963330030441284,
+        "direccion_10m_deg": 13.004867553710938
+      },
+      {
+        "hora_pronostico": 36,
+        "valido_para": "2026-09-23T06:00:00+00:00",
+        "viento_10m_ms": 2.9078826904296875,
+        "direccion_10m_deg": 13.6051025390625
+      },
+      {
+        "hora_pronostico": 37,
+        "valido_para": "2026-09-23T07:00:00+00:00",
+        "viento_10m_ms": 3.4162769317626953,
+        "direccion_10m_deg": 16.513282775878906
+      },
+      {
+        "hora_pronostico": 38,
+        "valido_para": "2026-09-23T08:00:00+00:00",
+        "viento_10m_ms": 3.7796738147735596,
+        "direccion_10m_deg": 23.461685180664062
+      },
+      {
+        "hora_pronostico": 39,
+        "valido_para": "2026-09-23T09:00:00+00:00",
+        "viento_10m_ms": 4.2950944900512695,
+        "direccion_10m_deg": 19.195457458496094
+      },
+      {
+        "hora_pronostico": 40,
+        "valido_para": "2026-09-23T10:00:00+00:00",
+        "viento_10m_ms": 4.335380554199219,
+        "direccion_10m_deg": 16.63982391357422
+      },
+      {
+        "hora_pronostico": 41,
+        "valido_para": "2026-09-23T11:00:00+00:00",
+        "viento_10m_ms": 5.0522236824035645,
+        "direccion_10m_deg": 13.622940063476562
+      },
+      {
+        "hora_pronostico": 42,
+        "valido_para": "2026-09-23T12:00:00+00:00",
+        "viento_10m_ms": 4.893620491027832,
+        "direccion_10m_deg": 8.110771179199219
+      },
+      {
+        "hora_pronostico": 43,
+        "valido_para": "2026-09-23T13:00:00+00:00",
+        "viento_10m_ms": 5.087757587432861,
+        "direccion_10m_deg": 6.1320953369140625
+      },
+      {
+        "hora_pronostico": 44,
+        "valido_para": "2026-09-23T14:00:00+00:00",
+        "viento_10m_ms": 5.240839958190918,
+        "direccion_10m_deg": 3.5444183349609375
+      },
+      {
+        "hora_pronostico": 45,
+        "valido_para": "2026-09-23T15:00:00+00:00",
+        "viento_10m_ms": 4.947078704833984,
+        "direccion_10m_deg": 349.2281494140625
+      },
+      {
+        "hora_pronostico": 46,
+        "valido_para": "2026-09-23T16:00:00+00:00",
+        "viento_10m_ms": 4.63541316986084,
+        "direccion_10m_deg": 339.5826721191406
+      },
+      {
+        "hora_pronostico": 47,
+        "valido_para": "2026-09-23T17:00:00+00:00",
+        "viento_10m_ms": 4.395145416259766,
+        "direccion_10m_deg": 326.67645263671875
+      },
+      {
+        "hora_pronostico": 48,
+        "valido_para": "2026-09-23T18:00:00+00:00",
+        "viento_10m_ms": 3.549642562866211,
+        "direccion_10m_deg": 328.64764404296875
+      },
+      {
+        "hora_pronostico": 49,
+        "valido_para": "2026-09-23T19:00:00+00:00",
+        "viento_10m_ms": 2.3990137577056885,
+        "direccion_10m_deg": 333.17315673828125
+      },
+      {
+        "hora_pronostico": 50,
+        "valido_para": "2026-09-23T20:00:00+00:00",
+        "viento_10m_ms": 2.948767900466919,
+        "direccion_10m_deg": 350.62249755859375
+      },
+      {
+        "hora_pronostico": 51,
+        "valido_para": "2026-09-23T21:00:00+00:00",
+        "viento_10m_ms": 2.9129669666290283,
+        "direccion_10m_deg": 1.5964813232421875
+      },
+      {
+        "hora_pronostico": 52,
+        "valido_para": "2026-09-23T22:00:00+00:00",
+        "viento_10m_ms": 3.0159718990325928,
+        "direccion_10m_deg": 13.707122802734375
+      },
+      {
+        "hora_pronostico": 53,
+        "valido_para": "2026-09-23T23:00:00+00:00",
+        "viento_10m_ms": 3.3863003253936768,
+        "direccion_10m_deg": 11.443946838378906
+      },
+      {
+        "hora_pronostico": 54,
+        "valido_para": "2026-09-24T00:00:00+00:00",
+        "viento_10m_ms": 3.825528860092163,
+        "direccion_10m_deg": 12.92791748046875
+      },
+      {
+        "hora_pronostico": 55,
+        "valido_para": "2026-09-24T01:00:00+00:00",
+        "viento_10m_ms": 4.496886730194092,
+        "direccion_10m_deg": 13.259162902832031
+      },
+      {
+        "hora_pronostico": 56,
+        "valido_para": "2026-09-24T02:00:00+00:00",
+        "viento_10m_ms": 4.682229518890381,
+        "direccion_10m_deg": 8.244979858398438
+      },
+      {
+        "hora_pronostico": 57,
+        "valido_para": "2026-09-24T03:00:00+00:00",
+        "viento_10m_ms": 4.628184795379639,
+        "direccion_10m_deg": 1.2085800170898438
+      },
+      {
+        "hora_pronostico": 58,
+        "valido_para": "2026-09-24T04:00:00+00:00",
+        "viento_10m_ms": 5.312528133392334,
+        "direccion_10m_deg": 1.7661514282226562
+      },
+      {
+        "hora_pronostico": 59,
+        "valido_para": "2026-09-24T05:00:00+00:00",
+        "viento_10m_ms": 5.24708890914917,
+        "direccion_10m_deg": 355.3236083984375
+      },
+      {
+        "hora_pronostico": 60,
+        "valido_para": "2026-09-24T06:00:00+00:00",
+        "viento_10m_ms": 5.641416549682617,
+        "direccion_10m_deg": 357.2900390625
+      },
+      {
+        "hora_pronostico": 61,
+        "valido_para": "2026-09-24T07:00:00+00:00",
+        "viento_10m_ms": 6.050540924072266,
+        "direccion_10m_deg": 359.85589599609375
+      },
+      {
+        "hora_pronostico": 62,
+        "valido_para": "2026-09-24T08:00:00+00:00",
+        "viento_10m_ms": 5.542150497436523,
+        "direccion_10m_deg": 354.55572509765625
+      },
+      {
+        "hora_pronostico": 63,
+        "valido_para": "2026-09-24T09:00:00+00:00",
+        "viento_10m_ms": 5.031878471374512,
+        "direccion_10m_deg": 359.2895812988281
+      },
+      {
+        "hora_pronostico": 64,
+        "valido_para": "2026-09-24T10:00:00+00:00",
+        "viento_10m_ms": 5.143439769744873,
+        "direccion_10m_deg": 0.435821533203125
+      },
+      {
+        "hora_pronostico": 65,
+        "valido_para": "2026-09-24T11:00:00+00:00",
+        "viento_10m_ms": 5.7230143547058105,
+        "direccion_10m_deg": 0.9394302368164062
+      },
+      {
+        "hora_pronostico": 66,
+        "valido_para": "2026-09-24T12:00:00+00:00",
+        "viento_10m_ms": 5.787050247192383,
+        "direccion_10m_deg": 354.7713623046875
+      },
+      {
+        "hora_pronostico": 67,
+        "valido_para": "2026-09-24T13:00:00+00:00",
+        "viento_10m_ms": 5.392735958099365,
+        "direccion_10m_deg": 347.3056335449219
+      },
+      {
+        "hora_pronostico": 68,
+        "valido_para": "2026-09-24T14:00:00+00:00",
+        "viento_10m_ms": 4.906323432922363,
+        "direccion_10m_deg": 338.592529296875
+      },
+      {
+        "hora_pronostico": 69,
+        "valido_para": "2026-09-24T15:00:00+00:00",
+        "viento_10m_ms": 4.444016456604004,
+        "direccion_10m_deg": 330.1307678222656
+      },
+      {
+        "hora_pronostico": 70,
+        "valido_para": "2026-09-24T16:00:00+00:00",
+        "viento_10m_ms": 4.5176167488098145,
+        "direccion_10m_deg": 328.3445739746094
+      },
+      {
+        "hora_pronostico": 71,
+        "valido_para": "2026-09-24T17:00:00+00:00",
+        "viento_10m_ms": 4.261658191680908,
+        "direccion_10m_deg": 329.27862548828125
+      },
+      {
+        "hora_pronostico": 72,
+        "valido_para": "2026-09-24T18:00:00+00:00",
+        "viento_10m_ms": 3.7909462451934814,
+        "direccion_10m_deg": 331.63543701171875
+      }
+    ],
+    "San Fernando": [
+      {
+        "hora_pronostico": 0,
+        "valido_para": "2026-09-21T18:00:00+00:00",
+        "viento_10m_ms": 9.15307903289795,
+        "direccion_10m_deg": 221.4960174560547
+      },
+      {
+        "hora_pronostico": 1,
+        "valido_para": "2026-09-21T19:00:00+00:00",
+        "viento_10m_ms": 10.460420608520508,
+        "direccion_10m_deg": 233.478515625
+      },
+      {
+        "hora_pronostico": 2,
+        "valido_para": "2026-09-21T20:00:00+00:00",
+        "viento_10m_ms": 9.602089881896973,
+        "direccion_10m_deg": 232.02276611328125
+      },
+      {
+        "hora_pronostico": 3,
+        "valido_para": "2026-09-21T21:00:00+00:00",
+        "viento_10m_ms": 7.921291828155518,
+        "direccion_10m_deg": 226.36331176757812
+      },
+      {
+        "hora_pronostico": 4,
+        "valido_para": "2026-09-21T22:00:00+00:00",
+        "viento_10m_ms": 8.293872833251953,
+        "direccion_10m_deg": 212.25033569335938
+      },
+      {
+        "hora_pronostico": 5,
+        "valido_para": "2026-09-21T23:00:00+00:00",
+        "viento_10m_ms": 5.115724086761475,
+        "direccion_10m_deg": 218.14369201660156
+      },
+      {
+        "hora_pronostico": 6,
+        "valido_para": "2026-09-22T00:00:00+00:00",
+        "viento_10m_ms": 4.612227439880371,
+        "direccion_10m_deg": 204.7007293701172
+      },
+      {
+        "hora_pronostico": 7,
+        "valido_para": "2026-09-22T01:00:00+00:00",
+        "viento_10m_ms": 4.330872535705566,
+        "direccion_10m_deg": 200.91336059570312
+      },
+      {
+        "hora_pronostico": 8,
+        "valido_para": "2026-09-22T02:00:00+00:00",
+        "viento_10m_ms": 4.349987983703613,
+        "direccion_10m_deg": 210.6423797607422
+      },
+      {
+        "hora_pronostico": 9,
+        "valido_para": "2026-09-22T03:00:00+00:00",
+        "viento_10m_ms": 4.430469989776611,
+        "direccion_10m_deg": 208.9474639892578
+      },
+      {
+        "hora_pronostico": 10,
+        "valido_para": "2026-09-22T04:00:00+00:00",
+        "viento_10m_ms": 5.251762866973877,
+        "direccion_10m_deg": 205.55593872070312
+      },
+      {
+        "hora_pronostico": 11,
+        "valido_para": "2026-09-22T05:00:00+00:00",
+        "viento_10m_ms": 4.611103534698486,
+        "direccion_10m_deg": 219.68142700195312
+      },
+      {
+        "hora_pronostico": 12,
+        "valido_para": "2026-09-22T06:00:00+00:00",
+        "viento_10m_ms": 4.699268341064453,
+        "direccion_10m_deg": 215.43765258789062
+      },
+      {
+        "hora_pronostico": 13,
+        "valido_para": "2026-09-22T07:00:00+00:00",
+        "viento_10m_ms": 4.317439556121826,
+        "direccion_10m_deg": 220.58969116210938
+      },
+      {
+        "hora_pronostico": 14,
+        "valido_para": "2026-09-22T08:00:00+00:00",
+        "viento_10m_ms": 4.343057632446289,
+        "direccion_10m_deg": 220.67654418945312
+      },
+      {
+        "hora_pronostico": 15,
+        "valido_para": "2026-09-22T09:00:00+00:00",
+        "viento_10m_ms": 4.296925067901611,
+        "direccion_10m_deg": 220.6267547607422
+      },
+      {
+        "hora_pronostico": 16,
+        "valido_para": "2026-09-22T10:00:00+00:00",
+        "viento_10m_ms": 3.925403594970703,
+        "direccion_10m_deg": 219.61868286132812
+      },
+      {
+        "hora_pronostico": 17,
+        "valido_para": "2026-09-22T11:00:00+00:00",
+        "viento_10m_ms": 4.369677543640137,
+        "direccion_10m_deg": 217.02005004882812
+      },
+      {
+        "hora_pronostico": 18,
+        "valido_para": "2026-09-22T12:00:00+00:00",
+        "viento_10m_ms": 5.161247730255127,
+        "direccion_10m_deg": 209.56875610351562
+      },
+      {
+        "hora_pronostico": 19,
+        "valido_para": "2026-09-22T13:00:00+00:00",
+        "viento_10m_ms": 4.739663124084473,
+        "direccion_10m_deg": 201.72889709472656
+      },
+      {
+        "hora_pronostico": 20,
+        "valido_para": "2026-09-22T14:00:00+00:00",
+        "viento_10m_ms": 3.7617123126983643,
+        "direccion_10m_deg": 211.96127319335938
+      },
+      {
+        "hora_pronostico": 21,
+        "valido_para": "2026-09-22T15:00:00+00:00",
+        "viento_10m_ms": 3.7573537826538086,
+        "direccion_10m_deg": 224.33355712890625
+      },
+      {
+        "hora_pronostico": 22,
+        "valido_para": "2026-09-22T16:00:00+00:00",
+        "viento_10m_ms": 3.789820909500122,
+        "direccion_10m_deg": 230.14682006835938
+      },
+      {
+        "hora_pronostico": 23,
+        "valido_para": "2026-09-22T17:00:00+00:00",
+        "viento_10m_ms": 3.9047858715057373,
+        "direccion_10m_deg": 229.10525512695312
+      },
+      {
+        "hora_pronostico": 24,
+        "valido_para": "2026-09-22T18:00:00+00:00",
+        "viento_10m_ms": 3.6980841159820557,
+        "direccion_10m_deg": 220.0245361328125
+      },
+      {
+        "hora_pronostico": 25,
+        "valido_para": "2026-09-22T19:00:00+00:00",
+        "viento_10m_ms": 2.934041976928711,
+        "direccion_10m_deg": 223.56314086914062
+      },
+      {
+        "hora_pronostico": 26,
+        "valido_para": "2026-09-22T20:00:00+00:00",
+        "viento_10m_ms": 2.13124680519104,
+        "direccion_10m_deg": 219.88465881347656
+      },
+      {
+        "hora_pronostico": 27,
+        "valido_para": "2026-09-22T21:00:00+00:00",
+        "viento_10m_ms": 1.637176752090454,
+        "direccion_10m_deg": 216.5946502685547
+      },
+      {
+        "hora_pronostico": 28,
+        "valido_para": "2026-09-22T22:00:00+00:00",
+        "viento_10m_ms": 0.7391640543937683,
+        "direccion_10m_deg": 228.8629608154297
+      },
+      {
+        "hora_pronostico": 29,
+        "valido_para": "2026-09-22T23:00:00+00:00",
+        "viento_10m_ms": 0.0,
+        "direccion_10m_deg": 216.80068969726562
+      },
+      {
+        "hora_pronostico": 30,
+        "valido_para": "2026-09-23T00:00:00+00:00",
+        "viento_10m_ms": 0.0,
+        "direccion_10m_deg": 42.12825012207031
+      },
+      {
+        "hora_pronostico": 31,
+        "valido_para": "2026-09-23T01:00:00+00:00",
+        "viento_10m_ms": 0.7080093026161194,
+        "direccion_10m_deg": 9.878822326660156
+      },
+      {
+        "hora_pronostico": 32,
+        "valido_para": "2026-09-23T02:00:00+00:00",
+        "viento_10m_ms": 1.0315890312194824,
+        "direccion_10m_deg": 1.9646453857421875
+      },
+      {
+        "hora_pronostico": 33,
+        "valido_para": "2026-09-23T03:00:00+00:00",
+        "viento_10m_ms": 1.3015432357788086,
+        "direccion_10m_deg": 357.8742370605469
+      },
+      {
+        "hora_pronostico": 34,
+        "valido_para": "2026-09-23T04:00:00+00:00",
+        "viento_10m_ms": 1.430319905281067,
+        "direccion_10m_deg": 0.4573974609375
+      },
+      {
+        "hora_pronostico": 35,
+        "valido_para": "2026-09-23T05:00:00+00:00",
+        "viento_10m_ms": 1.6522670984268188,
+        "direccion_10m_deg": 357.26800537109375
+      },
+      {
+        "hora_pronostico": 36,
+        "valido_para": "2026-09-23T06:00:00+00:00",
+        "viento_10m_ms": 1.777271032333374,
+        "direccion_10m_deg": 358.72283935546875
+      },
+      {
+        "hora_pronostico": 37,
+        "valido_para": "2026-09-23T07:00:00+00:00",
+        "viento_10m_ms": 1.6085965633392334,
+        "direccion_10m_deg": 1.5592880249023438
+      },
+      {
+        "hora_pronostico": 38,
+        "valido_para": "2026-09-23T08:00:00+00:00",
+        "viento_10m_ms": 1.9871838092803955,
+        "direccion_10m_deg": 8.761360168457031
+      },
+      {
+        "hora_pronostico": 39,
+        "valido_para": "2026-09-23T09:00:00+00:00",
+        "viento_10m_ms": 2.377676010131836,
+        "direccion_10m_deg": 11.033767700195312
+      },
+      {
+        "hora_pronostico": 40,
+        "valido_para": "2026-09-23T10:00:00+00:00",
+        "viento_10m_ms": 2.6059515476226807,
+        "direccion_10m_deg": 13.012184143066406
+      },
+      {
+        "hora_pronostico": 41,
+        "valido_para": "2026-09-23T11:00:00+00:00",
+        "viento_10m_ms": 3.040844678878784,
+        "direccion_10m_deg": 8.604606628417969
+      },
+      {
+        "hora_pronostico": 42,
+        "valido_para": "2026-09-23T12:00:00+00:00",
+        "viento_10m_ms": 3.6620612144470215,
+        "direccion_10m_deg": 7.4984588623046875
+      },
+      {
+        "hora_pronostico": 43,
+        "valido_para": "2026-09-23T13:00:00+00:00",
+        "viento_10m_ms": 4.422057151794434,
+        "direccion_10m_deg": 8.028373718261719
+      },
+      {
+        "hora_pronostico": 44,
+        "valido_para": "2026-09-23T14:00:00+00:00",
+        "viento_10m_ms": 5.011002540588379,
+        "direccion_10m_deg": 1.7655105590820312
+      },
+      {
+        "hora_pronostico": 45,
+        "valido_para": "2026-09-23T15:00:00+00:00",
+        "viento_10m_ms": 5.221412658691406,
+        "direccion_10m_deg": 358.6939392089844
+      },
+      {
+        "hora_pronostico": 46,
+        "valido_para": "2026-09-23T16:00:00+00:00",
+        "viento_10m_ms": 5.414475440979004,
+        "direccion_10m_deg": 354.42510986328125
+      },
+      {
+        "hora_pronostico": 47,
+        "valido_para": "2026-09-23T17:00:00+00:00",
+        "viento_10m_ms": 5.051187038421631,
+        "direccion_10m_deg": 358.14483642578125
+      },
+      {
+        "hora_pronostico": 48,
+        "valido_para": "2026-09-23T18:00:00+00:00",
+        "viento_10m_ms": 5.269104957580566,
+        "direccion_10m_deg": 3.7998428344726562
+      },
+      {
+        "hora_pronostico": 49,
+        "valido_para": "2026-09-23T19:00:00+00:00",
+        "viento_10m_ms": 5.374324798583984,
+        "direccion_10m_deg": 6.288185119628906
+      },
+      {
+        "hora_pronostico": 50,
+        "valido_para": "2026-09-23T20:00:00+00:00",
+        "viento_10m_ms": 4.583407402038574,
+        "direccion_10m_deg": 4.132911682128906
+      },
+      {
+        "hora_pronostico": 51,
+        "valido_para": "2026-09-23T21:00:00+00:00",
+        "viento_10m_ms": 3.4914908409118652,
+        "direccion_10m_deg": 4.46826171875
+      },
+      {
+        "hora_pronostico": 52,
+        "valido_para": "2026-09-23T22:00:00+00:00",
+        "viento_10m_ms": 2.4618654251098633,
+        "direccion_10m_deg": 6.01641845703125
+      },
+      {
+        "hora_pronostico": 53,
+        "valido_para": "2026-09-23T23:00:00+00:00",
+        "viento_10m_ms": 2.1235969066619873,
+        "direccion_10m_deg": 11.017646789550781
+      },
+      {
+        "hora_pronostico": 54,
+        "valido_para": "2026-09-24T00:00:00+00:00",
+        "viento_10m_ms": 2.4979586601257324,
+        "direccion_10m_deg": 9.8048095703125
+      },
+      {
+        "hora_pronostico": 55,
+        "valido_para": "2026-09-24T01:00:00+00:00",
+        "viento_10m_ms": 2.615884780883789,
+        "direccion_10m_deg": 6.959266662597656
+      },
+      {
+        "hora_pronostico": 56,
+        "valido_para": "2026-09-24T02:00:00+00:00",
+        "viento_10m_ms": 2.7538561820983887,
+        "direccion_10m_deg": 6.9881591796875
+      },
+      {
+        "hora_pronostico": 57,
+        "valido_para": "2026-09-24T03:00:00+00:00",
+        "viento_10m_ms": 2.5285327434539795,
+        "direccion_10m_deg": 353.6700134277344
+      },
+      {
+        "hora_pronostico": 58,
+        "valido_para": "2026-09-24T04:00:00+00:00",
+        "viento_10m_ms": 3.0248303413391113,
+        "direccion_10m_deg": 352.8238525390625
+      },
+      {
+        "hora_pronostico": 59,
+        "valido_para": "2026-09-24T05:00:00+00:00",
+        "viento_10m_ms": 2.931851625442505,
+        "direccion_10m_deg": 353.9689636230469
+      },
+      {
+        "hora_pronostico": 60,
+        "valido_para": "2026-09-24T06:00:00+00:00",
+        "viento_10m_ms": 2.417051315307617,
+        "direccion_10m_deg": 349.84356689453125
+      },
+      {
+        "hora_pronostico": 61,
+        "valido_para": "2026-09-24T07:00:00+00:00",
+        "viento_10m_ms": 2.2684972286224365,
+        "direccion_10m_deg": 350.23199462890625
+      },
+      {
+        "hora_pronostico": 62,
+        "valido_para": "2026-09-24T08:00:00+00:00",
+        "viento_10m_ms": 2.5412285327911377,
+        "direccion_10m_deg": 355.6098327636719
+      },
+      {
+        "hora_pronostico": 63,
+        "valido_para": "2026-09-24T09:00:00+00:00",
+        "viento_10m_ms": 1.7975102663040161,
+        "direccion_10m_deg": 351.15875244140625
+      },
+      {
+        "hora_pronostico": 64,
+        "valido_para": "2026-09-24T10:00:00+00:00",
+        "viento_10m_ms": 2.2505152225494385,
+        "direccion_10m_deg": 355.74517822265625
+      },
+      {
+        "hora_pronostico": 65,
+        "valido_para": "2026-09-24T11:00:00+00:00",
+        "viento_10m_ms": 2.7486374378204346,
+        "direccion_10m_deg": 352.82757568359375
+      },
+      {
+        "hora_pronostico": 66,
+        "valido_para": "2026-09-24T12:00:00+00:00",
+        "viento_10m_ms": 3.600581407546997,
+        "direccion_10m_deg": 348.27581787109375
+      },
+      {
+        "hora_pronostico": 67,
+        "valido_para": "2026-09-24T13:00:00+00:00",
+        "viento_10m_ms": 4.293858051300049,
+        "direccion_10m_deg": 344.8567199707031
+      },
+      {
+        "hora_pronostico": 68,
+        "valido_para": "2026-09-24T14:00:00+00:00",
+        "viento_10m_ms": 5.404730796813965,
+        "direccion_10m_deg": 343.7726745605469
+      },
+      {
+        "hora_pronostico": 69,
+        "valido_para": "2026-09-24T15:00:00+00:00",
+        "viento_10m_ms": 5.735478401184082,
+        "direccion_10m_deg": 339.5107727050781
+      },
+      {
+        "hora_pronostico": 70,
+        "valido_para": "2026-09-24T16:00:00+00:00",
+        "viento_10m_ms": 5.5922160148620605,
+        "direccion_10m_deg": 336.7135009765625
+      },
+      {
+        "hora_pronostico": 71,
+        "valido_para": "2026-09-24T17:00:00+00:00",
+        "viento_10m_ms": 5.24281120300293,
+        "direccion_10m_deg": 337.9754333496094
+      },
+      {
+        "hora_pronostico": 72,
+        "valido_para": "2026-09-24T18:00:00+00:00",
+        "viento_10m_ms": 5.165896415710449,
+        "direccion_10m_deg": 346.6094055175781
+      }
+    ],
+    "Buenos Aires (Palermo)": [
+      {
+        "hora_pronostico": 0,
+        "valido_para": "2026-09-21T18:00:00+00:00",
+        "viento_10m_ms": 8.550957679748535,
+        "direccion_10m_deg": 223.0907440185547
+      },
+      {
+        "hora_pronostico": 1,
+        "valido_para": "2026-09-21T19:00:00+00:00",
+        "viento_10m_ms": 8.623112678527832,
+        "direccion_10m_deg": 238.11709594726562
+      },
+      {
+        "hora_pronostico": 2,
+        "valido_para": "2026-09-21T20:00:00+00:00",
+        "viento_10m_ms": 8.931390762329102,
+        "direccion_10m_deg": 226.65687561035156
+      },
+      {
+        "hora_pronostico": 3,
+        "valido_para": "2026-09-21T21:00:00+00:00",
+        "viento_10m_ms": 7.5508198738098145,
+        "direccion_10m_deg": 223.688720703125
+      },
+      {
+        "hora_pronostico": 4,
+        "valido_para": "2026-09-21T22:00:00+00:00",
+        "viento_10m_ms": 7.940613746643066,
+        "direccion_10m_deg": 219.21766662597656
+      },
+      {
+        "hora_pronostico": 5,
+        "valido_para": "2026-09-21T23:00:00+00:00",
+        "viento_10m_ms": 7.063560485839844,
+        "direccion_10m_deg": 211.37249755859375
+      },
+      {
+        "hora_pronostico": 6,
+        "valido_para": "2026-09-22T00:00:00+00:00",
+        "viento_10m_ms": 6.387940406799316,
+        "direccion_10m_deg": 202.22769165039062
+      },
+      {
+        "hora_pronostico": 7,
+        "valido_para": "2026-09-22T01:00:00+00:00",
+        "viento_10m_ms": 6.385975360870361,
+        "direccion_10m_deg": 204.57778930664062
+      },
+      {
+        "hora_pronostico": 8,
+        "valido_para": "2026-09-22T02:00:00+00:00",
+        "viento_10m_ms": 5.381034851074219,
+        "direccion_10m_deg": 201.56727600097656
+      },
+      {
+        "hora_pronostico": 9,
+        "valido_para": "2026-09-22T03:00:00+00:00",
+        "viento_10m_ms": 4.171545028686523,
+        "direccion_10m_deg": 202.58441162109375
+      },
+      {
+        "hora_pronostico": 10,
+        "valido_para": "2026-09-22T04:00:00+00:00",
+        "viento_10m_ms": 4.068585395812988,
+        "direccion_10m_deg": 215.6458282470703
+      },
+      {
+        "hora_pronostico": 11,
+        "valido_para": "2026-09-22T05:00:00+00:00",
+        "viento_10m_ms": 4.888749122619629,
+        "direccion_10m_deg": 215.6511993408203
+      },
+      {
+        "hora_pronostico": 12,
+        "valido_para": "2026-09-22T06:00:00+00:00",
+        "viento_10m_ms": 4.687676906585693,
+        "direccion_10m_deg": 216.40280151367188
+      },
+      {
+        "hora_pronostico": 13,
+        "valido_para": "2026-09-22T07:00:00+00:00",
+        "viento_10m_ms": 4.565196990966797,
+        "direccion_10m_deg": 219.9908447265625
+      },
+      {
+        "hora_pronostico": 14,
+        "valido_para": "2026-09-22T08:00:00+00:00",
+        "viento_10m_ms": 4.911427021026611,
+        "direccion_10m_deg": 218.75918579101562
+      },
+      {
+        "hora_pronostico": 15,
+        "valido_para": "2026-09-22T09:00:00+00:00",
+        "viento_10m_ms": 5.193292140960693,
+        "direccion_10m_deg": 215.67758178710938
+      },
+      {
+        "hora_pronostico": 16,
+        "valido_para": "2026-09-22T10:00:00+00:00",
+        "viento_10m_ms": 4.892425537109375,
+        "direccion_10m_deg": 213.7763671875
+      },
+      {
+        "hora_pronostico": 17,
+        "valido_para": "2026-09-22T11:00:00+00:00",
+        "viento_10m_ms": 4.952975273132324,
+        "direccion_10m_deg": 212.4132080078125
+      },
+      {
+        "hora_pronostico": 18,
+        "valido_para": "2026-09-22T12:00:00+00:00",
+        "viento_10m_ms": 4.874460220336914,
+        "direccion_10m_deg": 208.54931640625
+      },
+      {
+        "hora_pronostico": 19,
+        "valido_para": "2026-09-22T13:00:00+00:00",
+        "viento_10m_ms": 4.148776531219482,
+        "direccion_10m_deg": 206.2235107421875
+      },
+      {
+        "hora_pronostico": 20,
+        "valido_para": "2026-09-22T14:00:00+00:00",
+        "viento_10m_ms": 3.392411470413208,
+        "direccion_10m_deg": 215.5171661376953
+      },
+      {
+        "hora_pronostico": 21,
+        "valido_para": "2026-09-22T15:00:00+00:00",
+        "viento_10m_ms": 3.093440055847168,
+        "direccion_10m_deg": 222.73110961914062
+      },
+      {
+        "hora_pronostico": 22,
+        "valido_para": "2026-09-22T16:00:00+00:00",
+        "viento_10m_ms": 3.2222414016723633,
+        "direccion_10m_deg": 230.96511840820312
+      },
+      {
+        "hora_pronostico": 23,
+        "valido_para": "2026-09-22T17:00:00+00:00",
+        "viento_10m_ms": 3.4756150245666504,
+        "direccion_10m_deg": 241.85523986816406
+      },
+      {
+        "hora_pronostico": 24,
+        "valido_para": "2026-09-22T18:00:00+00:00",
+        "viento_10m_ms": 3.611121892929077,
+        "direccion_10m_deg": 243.21339416503906
+      },
+      {
+        "hora_pronostico": 25,
+        "valido_para": "2026-09-22T19:00:00+00:00",
+        "viento_10m_ms": 3.1870245933532715,
+        "direccion_10m_deg": 242.92811584472656
+      },
+      {
+        "hora_pronostico": 26,
+        "valido_para": "2026-09-22T20:00:00+00:00",
+        "viento_10m_ms": 2.5548408031463623,
+        "direccion_10m_deg": 239.6620330810547
+      },
+      {
+        "hora_pronostico": 27,
+        "valido_para": "2026-09-22T21:00:00+00:00",
+        "viento_10m_ms": 1.5440542697906494,
+        "direccion_10m_deg": 241.06639099121094
+      },
+      {
+        "hora_pronostico": 28,
+        "valido_para": "2026-09-22T22:00:00+00:00",
+        "viento_10m_ms": 0.9104635715484619,
+        "direccion_10m_deg": 232.49334716796875
+      },
+      {
+        "hora_pronostico": 29,
+        "valido_para": "2026-09-22T23:00:00+00:00",
+        "viento_10m_ms": 0.0,
+        "direccion_10m_deg": 208.45095825195312
+      },
+      {
+        "hora_pronostico": 30,
+        "valido_para": "2026-09-23T00:00:00+00:00",
+        "viento_10m_ms": 0.013451725244522095,
+        "direccion_10m_deg": 183.03134155273438
+      },
+      {
+        "hora_pronostico": 31,
+        "valido_para": "2026-09-23T01:00:00+00:00",
+        "viento_10m_ms": 0.0,
+        "direccion_10m_deg": 143.7075653076172
+      },
+      {
+        "hora_pronostico": 32,
+        "valido_para": "2026-09-23T02:00:00+00:00",
+        "viento_10m_ms": 0.41673994064331055,
+        "direccion_10m_deg": 45.69902801513672
+      },
+      {
+        "hora_pronostico": 33,
+        "valido_para": "2026-09-23T03:00:00+00:00",
+        "viento_10m_ms": 2.2526416778564453,
+        "direccion_10m_deg": 355.5269775390625
+      },
+      {
+        "hora_pronostico": 34,
+        "valido_para": "2026-09-23T04:00:00+00:00",
+        "viento_10m_ms": 3.1047420501708984,
+        "direccion_10m_deg": 353.8868713378906
+      },
+      {
+        "hora_pronostico": 35,
+        "valido_para": "2026-09-23T05:00:00+00:00",
+        "viento_10m_ms": 3.8230526447296143,
+        "direccion_10m_deg": 351.8967590332031
+      },
+      {
+        "hora_pronostico": 36,
+        "valido_para": "2026-09-23T06:00:00+00:00",
+        "viento_10m_ms": 3.8195853233337402,
+        "direccion_10m_deg": 349.94561767578125
+      },
+      {
+        "hora_pronostico": 37,
+        "valido_para": "2026-09-23T07:00:00+00:00",
+        "viento_10m_ms": 3.8091893196105957,
+        "direccion_10m_deg": 352.4322814941406
+      },
+      {
+        "hora_pronostico": 38,
+        "valido_para": "2026-09-23T08:00:00+00:00",
+        "viento_10m_ms": 3.967947483062744,
+        "direccion_10m_deg": 1.9596328735351562
+      },
+      {
+        "hora_pronostico": 39,
+        "valido_para": "2026-09-23T09:00:00+00:00",
+        "viento_10m_ms": 5.002305507659912,
+        "direccion_10m_deg": 4.9289398193359375
+      },
+      {
+        "hora_pronostico": 40,
+        "valido_para": "2026-09-23T10:00:00+00:00",
+        "viento_10m_ms": 5.5062360763549805,
+        "direccion_10m_deg": 2.8984298706054688
+      },
+      {
+        "hora_pronostico": 41,
+        "valido_para": "2026-09-23T11:00:00+00:00",
+        "viento_10m_ms": 5.728150844573975,
+        "direccion_10m_deg": 2.2341766357421875
+      },
+      {
+        "hora_pronostico": 42,
+        "valido_para": "2026-09-23T12:00:00+00:00",
+        "viento_10m_ms": 5.464262962341309,
+        "direccion_10m_deg": 1.825592041015625
+      },
+      {
+        "hora_pronostico": 43,
+        "valido_para": "2026-09-23T13:00:00+00:00",
+        "viento_10m_ms": 5.324829578399658,
+        "direccion_10m_deg": 6.605781555175781
+      },
+      {
+        "hora_pronostico": 44,
+        "valido_para": "2026-09-23T14:00:00+00:00",
+        "viento_10m_ms": 5.35860013961792,
+        "direccion_10m_deg": 2.4462509155273438
+      },
+      {
+        "hora_pronostico": 45,
+        "valido_para": "2026-09-23T15:00:00+00:00",
+        "viento_10m_ms": 5.183897972106934,
+        "direccion_10m_deg": 359.5235290527344
+      },
+      {
+        "hora_pronostico": 46,
+        "valido_para": "2026-09-23T16:00:00+00:00",
+        "viento_10m_ms": 4.703253746032715,
+        "direccion_10m_deg": 351.1591796875
+      },
+      {
+        "hora_pronostico": 47,
+        "valido_para": "2026-09-23T17:00:00+00:00",
+        "viento_10m_ms": 5.004175662994385,
+        "direccion_10m_deg": 350.56134033203125
+      },
+      {
+        "hora_pronostico": 48,
+        "valido_para": "2026-09-23T18:00:00+00:00",
+        "viento_10m_ms": 4.822544574737549,
+        "direccion_10m_deg": 357.2341003417969
+      },
+      {
+        "hora_pronostico": 49,
+        "valido_para": "2026-09-23T19:00:00+00:00",
+        "viento_10m_ms": 3.6557512283325195,
+        "direccion_10m_deg": 9.982749938964844
+      },
+      {
+        "hora_pronostico": 50,
+        "valido_para": "2026-09-23T20:00:00+00:00",
+        "viento_10m_ms": 2.8318369388580322,
+        "direccion_10m_deg": 2.7420196533203125
+      },
+      {
+        "hora_pronostico": 51,
+        "valido_para": "2026-09-23T21:00:00+00:00",
+        "viento_10m_ms": 2.4417762756347656,
+        "direccion_10m_deg": 0.9483489990234375
+      },
+      {
+        "hora_pronostico": 52,
+        "valido_para": "2026-09-23T22:00:00+00:00",
+        "viento_10m_ms": 2.936140298843384,
+        "direccion_10m_deg": 6.101753234863281
+      },
+      {
+        "hora_pronostico": 53,
+        "valido_para": "2026-09-23T23:00:00+00:00",
+        "viento_10m_ms": 4.6337666511535645,
+        "direccion_10m_deg": 8.902801513671875
+      },
+      {
+        "hora_pronostico": 54,
+        "valido_para": "2026-09-24T00:00:00+00:00",
+        "viento_10m_ms": 5.232925891876221,
+        "direccion_10m_deg": 9.755325317382812
+      },
+      {
+        "hora_pronostico": 55,
+        "valido_para": "2026-09-24T01:00:00+00:00",
+        "viento_10m_ms": 5.2053961753845215,
+        "direccion_10m_deg": 5.688499450683594
+      },
+      {
+        "hora_pronostico": 56,
+        "valido_para": "2026-09-24T02:00:00+00:00",
+        "viento_10m_ms": 5.367294788360596,
+        "direccion_10m_deg": 2.7658767700195312
+      },
+      {
+        "hora_pronostico": 57,
+        "valido_para": "2026-09-24T03:00:00+00:00",
+        "viento_10m_ms": 5.068885803222656,
+        "direccion_10m_deg": 353.28375244140625
+      },
+      {
+        "hora_pronostico": 58,
+        "valido_para": "2026-09-24T04:00:00+00:00",
+        "viento_10m_ms": 5.43464994430542,
+        "direccion_10m_deg": 348.6749572753906
+      },
+      {
+        "hora_pronostico": 59,
+        "valido_para": "2026-09-24T05:00:00+00:00",
+        "viento_10m_ms": 5.266274452209473,
+        "direccion_10m_deg": 348.9444885253906
+      },
+      {
+        "hora_pronostico": 60,
+        "valido_para": "2026-09-24T06:00:00+00:00",
+        "viento_10m_ms": 4.330957412719727,
+        "direccion_10m_deg": 346.33349609375
+      },
+      {
+        "hora_pronostico": 61,
+        "valido_para": "2026-09-24T07:00:00+00:00",
+        "viento_10m_ms": 3.920531749725342,
+        "direccion_10m_deg": 345.28558349609375
+      },
+      {
+        "hora_pronostico": 62,
+        "valido_para": "2026-09-24T08:00:00+00:00",
+        "viento_10m_ms": 4.256630897521973,
+        "direccion_10m_deg": 348.5838928222656
+      },
+      {
+        "hora_pronostico": 63,
+        "valido_para": "2026-09-24T09:00:00+00:00",
+        "viento_10m_ms": 4.0711894035339355,
+        "direccion_10m_deg": 348.22906494140625
+      },
+      {
+        "hora_pronostico": 64,
+        "valido_para": "2026-09-24T10:00:00+00:00",
+        "viento_10m_ms": 4.493481159210205,
+        "direccion_10m_deg": 351.6139221191406
+      },
+      {
+        "hora_pronostico": 65,
+        "valido_para": "2026-09-24T11:00:00+00:00",
+        "viento_10m_ms": 4.377289772033691,
+        "direccion_10m_deg": 351.69287109375
+      },
+      {
+        "hora_pronostico": 66,
+        "valido_para": "2026-09-24T12:00:00+00:00",
+        "viento_10m_ms": 4.7123332023620605,
+        "direccion_10m_deg": 350.96160888671875
+      },
+      {
+        "hora_pronostico": 67,
+        "valido_para": "2026-09-24T13:00:00+00:00",
+        "viento_10m_ms": 4.754189968109131,
+        "direccion_10m_deg": 352.441650390625
+      },
+      {
+        "hora_pronostico": 68,
+        "valido_para": "2026-09-24T14:00:00+00:00",
+        "viento_10m_ms": 4.9926300048828125,
+        "direccion_10m_deg": 355.64990234375
+      },
+      {
+        "hora_pronostico": 69,
+        "valido_para": "2026-09-24T15:00:00+00:00",
+        "viento_10m_ms": 5.08165979385376,
+        "direccion_10m_deg": 356.85882568359375
+      },
+      {
+        "hora_pronostico": 70,
+        "valido_para": "2026-09-24T16:00:00+00:00",
+        "viento_10m_ms": 4.927341461181641,
+        "direccion_10m_deg": 358.5596008300781
+      },
+      {
+        "hora_pronostico": 71,
+        "valido_para": "2026-09-24T17:00:00+00:00",
+        "viento_10m_ms": 4.681169509887695,
+        "direccion_10m_deg": 1.3483428955078125
+      },
+      {
+        "hora_pronostico": 72,
+        "valido_para": "2026-09-24T18:00:00+00:00",
+        "viento_10m_ms": 4.67461633682251,
+        "direccion_10m_deg": 8.783447265625
+      }
+    ],
+    "Pilote Norden": [
+      {
+        "hora_pronostico": 0,
+        "valido_para": "2026-09-21T18:00:00+00:00",
+        "viento_10m_ms": 11.432059288024902,
+        "direccion_10m_deg": 244.58946228027344
+      },
+      {
+        "hora_pronostico": 1,
+        "valido_para": "2026-09-21T19:00:00+00:00",
+        "viento_10m_ms": 9.639630317687988,
+        "direccion_10m_deg": 240.98040771484375
+      },
+      {
+        "hora_pronostico": 2,
+        "valido_para": "2026-09-21T20:00:00+00:00",
+        "viento_10m_ms": 9.84730339050293,
+        "direccion_10m_deg": 230.10430908203125
+      },
+      {
+        "hora_pronostico": 3,
+        "valido_para": "2026-09-21T21:00:00+00:00",
+        "viento_10m_ms": 9.919708251953125,
+        "direccion_10m_deg": 230.54095458984375
+      },
+      {
+        "hora_pronostico": 4,
+        "valido_para": "2026-09-21T22:00:00+00:00",
+        "viento_10m_ms": 7.792228698730469,
+        "direccion_10m_deg": 224.57383728027344
+      },
+      {
+        "hora_pronostico": 5,
+        "valido_para": "2026-09-21T23:00:00+00:00",
+        "viento_10m_ms": 6.633978843688965,
+        "direccion_10m_deg": 214.56289672851562
+      },
+      {
+        "hora_pronostico": 6,
+        "valido_para": "2026-09-22T00:00:00+00:00",
+        "viento_10m_ms": 6.346742153167725,
+        "direccion_10m_deg": 198.1207275390625
+      },
+      {
+        "hora_pronostico": 7,
+        "valido_para": "2026-09-22T01:00:00+00:00",
+        "viento_10m_ms": 5.411206245422363,
+        "direccion_10m_deg": 209.26400756835938
+      },
+      {
+        "hora_pronostico": 8,
+        "valido_para": "2026-09-22T02:00:00+00:00",
+        "viento_10m_ms": 6.519541263580322,
+        "direccion_10m_deg": 214.05120849609375
+      },
+      {
+        "hora_pronostico": 9,
+        "valido_para": "2026-09-22T03:00:00+00:00",
+        "viento_10m_ms": 6.2521867752075195,
+        "direccion_10m_deg": 211.8212890625
+      },
+      {
+        "hora_pronostico": 10,
+        "valido_para": "2026-09-22T04:00:00+00:00",
+        "viento_10m_ms": 6.988844394683838,
+        "direccion_10m_deg": 207.81024169921875
+      },
+      {
+        "hora_pronostico": 11,
+        "valido_para": "2026-09-22T05:00:00+00:00",
+        "viento_10m_ms": 6.376160621643066,
+        "direccion_10m_deg": 209.9781951904297
+      },
+      {
+        "hora_pronostico": 12,
+        "valido_para": "2026-09-22T06:00:00+00:00",
+        "viento_10m_ms": 6.305013179779053,
+        "direccion_10m_deg": 215.65235900878906
+      },
+      {
+        "hora_pronostico": 13,
+        "valido_para": "2026-09-22T07:00:00+00:00",
+        "viento_10m_ms": 6.244504928588867,
+        "direccion_10m_deg": 214.34414672851562
+      },
+      {
+        "hora_pronostico": 14,
+        "valido_para": "2026-09-22T08:00:00+00:00",
+        "viento_10m_ms": 6.745563983917236,
+        "direccion_10m_deg": 216.8539581298828
+      },
+      {
+        "hora_pronostico": 15,
+        "valido_para": "2026-09-22T09:00:00+00:00",
+        "viento_10m_ms": 7.100491046905518,
+        "direccion_10m_deg": 212.9575653076172
+      },
+      {
+        "hora_pronostico": 16,
+        "valido_para": "2026-09-22T10:00:00+00:00",
+        "viento_10m_ms": 6.788209915161133,
+        "direccion_10m_deg": 213.53326416015625
+      },
+      {
+        "hora_pronostico": 17,
+        "valido_para": "2026-09-22T11:00:00+00:00",
+        "viento_10m_ms": 6.576060771942139,
+        "direccion_10m_deg": 213.57369995117188
+      },
+      {
+        "hora_pronostico": 18,
+        "valido_para": "2026-09-22T12:00:00+00:00",
+        "viento_10m_ms": 5.988991737365723,
+        "direccion_10m_deg": 210.39273071289062
+      },
+      {
+        "hora_pronostico": 19,
+        "valido_para": "2026-09-22T13:00:00+00:00",
+        "viento_10m_ms": 4.571169853210449,
+        "direccion_10m_deg": 204.81015014648438
+      },
+      {
+        "hora_pronostico": 20,
+        "valido_para": "2026-09-22T14:00:00+00:00",
+        "viento_10m_ms": 3.464940071105957,
+        "direccion_10m_deg": 215.68194580078125
+      },
+      {
+        "hora_pronostico": 21,
+        "valido_para": "2026-09-22T15:00:00+00:00",
+        "viento_10m_ms": 2.6942574977874756,
+        "direccion_10m_deg": 238.25942993164062
+      },
+      {
+        "hora_pronostico": 22,
+        "valido_para": "2026-09-22T16:00:00+00:00",
+        "viento_10m_ms": 2.7885727882385254,
+        "direccion_10m_deg": 262.7218933105469
+      },
+      {
+        "hora_pronostico": 23,
+        "valido_para": "2026-09-22T17:00:00+00:00",
+        "viento_10m_ms": 3.9927854537963867,
+        "direccion_10m_deg": 263.795654296875
+      },
+      {
+        "hora_pronostico": 24,
+        "valido_para": "2026-09-22T18:00:00+00:00",
+        "viento_10m_ms": 3.840784788131714,
+        "direccion_10m_deg": 283.1317138671875
+      },
+      {
+        "hora_pronostico": 25,
+        "valido_para": "2026-09-22T19:00:00+00:00",
+        "viento_10m_ms": 2.994795322418213,
+        "direccion_10m_deg": 279.485595703125
+      },
+      {
+        "hora_pronostico": 26,
+        "valido_para": "2026-09-22T20:00:00+00:00",
+        "viento_10m_ms": 2.3050944805145264,
+        "direccion_10m_deg": 266.4044494628906
+      },
+      {
+        "hora_pronostico": 27,
+        "valido_para": "2026-09-22T21:00:00+00:00",
+        "viento_10m_ms": 1.8256146907806396,
+        "direccion_10m_deg": 268.28045654296875
+      },
+      {
+        "hora_pronostico": 28,
+        "valido_para": "2026-09-22T22:00:00+00:00",
+        "viento_10m_ms": 1.1560479402542114,
+        "direccion_10m_deg": 254.6929168701172
+      },
+      {
+        "hora_pronostico": 29,
+        "valido_para": "2026-09-22T23:00:00+00:00",
+        "viento_10m_ms": 1.285193681716919,
+        "direccion_10m_deg": 235.88226318359375
+      },
+      {
+        "hora_pronostico": 30,
+        "valido_para": "2026-09-23T00:00:00+00:00",
+        "viento_10m_ms": 1.9284700155258179,
+        "direccion_10m_deg": 205.9525604248047
+      },
+      {
+        "hora_pronostico": 31,
+        "valido_para": "2026-09-23T01:00:00+00:00",
+        "viento_10m_ms": 0.7021493315696716,
+        "direccion_10m_deg": 179.0819091796875
+      },
+      {
+        "hora_pronostico": 32,
+        "valido_para": "2026-09-23T02:00:00+00:00",
+        "viento_10m_ms": 0.0863911584019661,
+        "direccion_10m_deg": 26.037071228027344
+      },
+      {
+        "hora_pronostico": 33,
+        "valido_para": "2026-09-23T03:00:00+00:00",
+        "viento_10m_ms": 3.1521286964416504,
+        "direccion_10m_deg": 355.643310546875
+      },
+      {
+        "hora_pronostico": 34,
+        "valido_para": "2026-09-23T04:00:00+00:00",
+        "viento_10m_ms": 4.0402069091796875,
+        "direccion_10m_deg": 352.40936279296875
+      },
+      {
+        "hora_pronostico": 35,
+        "valido_para": "2026-09-23T05:00:00+00:00",
+        "viento_10m_ms": 4.245498180389404,
+        "direccion_10m_deg": 354.9599304199219
+      },
+      {
+        "hora_pronostico": 36,
+        "valido_para": "2026-09-23T06:00:00+00:00",
+        "viento_10m_ms": 4.212002277374268,
+        "direccion_10m_deg": 358.073486328125
+      },
+      {
+        "hora_pronostico": 37,
+        "valido_para": "2026-09-23T07:00:00+00:00",
+        "viento_10m_ms": 4.7724809646606445,
+        "direccion_10m_deg": 0.5343551635742188
+      },
+      {
+        "hora_pronostico": 38,
+        "valido_para": "2026-09-23T08:00:00+00:00",
+        "viento_10m_ms": 5.587224960327148,
+        "direccion_10m_deg": 4.852928161621094
+      },
+      {
+        "hora_pronostico": 39,
+        "valido_para": "2026-09-23T09:00:00+00:00",
+        "viento_10m_ms": 5.871595859527588,
+        "direccion_10m_deg": 2.3207778930664062
+      },
+      {
+        "hora_pronostico": 40,
+        "valido_para": "2026-09-23T10:00:00+00:00",
+        "viento_10m_ms": 5.8220014572143555,
+        "direccion_10m_deg": 2.3137054443359375
+      },
+      {
+        "hora_pronostico": 41,
+        "valido_para": "2026-09-23T11:00:00+00:00",
+        "viento_10m_ms": 5.817820072174072,
+        "direccion_10m_deg": 2.7757034301757812
+      },
+      {
+        "hora_pronostico": 42,
+        "valido_para": "2026-09-23T12:00:00+00:00",
+        "viento_10m_ms": 5.675776958465576,
+        "direccion_10m_deg": 2.2898101806640625
+      },
+      {
+        "hora_pronostico": 43,
+        "valido_para": "2026-09-23T13:00:00+00:00",
+        "viento_10m_ms": 5.564858436584473,
+        "direccion_10m_deg": 358.7362976074219
+      },
+      {
+        "hora_pronostico": 44,
+        "valido_para": "2026-09-23T14:00:00+00:00",
+        "viento_10m_ms": 5.527413845062256,
+        "direccion_10m_deg": 356.2574768066406
+      },
+      {
+        "hora_pronostico": 45,
+        "valido_para": "2026-09-23T15:00:00+00:00",
+        "viento_10m_ms": 5.1285295486450195,
+        "direccion_10m_deg": 348.8393249511719
+      },
+      {
+        "hora_pronostico": 46,
+        "valido_para": "2026-09-23T16:00:00+00:00",
+        "viento_10m_ms": 4.547657012939453,
+        "direccion_10m_deg": 333.92352294921875
+      },
+      {
+        "hora_pronostico": 47,
+        "valido_para": "2026-09-23T17:00:00+00:00",
+        "viento_10m_ms": 3.621370315551758,
+        "direccion_10m_deg": 330.7524108886719
+      },
+      {
+        "hora_pronostico": 48,
+        "valido_para": "2026-09-23T18:00:00+00:00",
+        "viento_10m_ms": 2.7570695877075195,
+        "direccion_10m_deg": 307.99822998046875
+      },
+      {
+        "hora_pronostico": 49,
+        "valido_para": "2026-09-23T19:00:00+00:00",
+        "viento_10m_ms": 2.1720175743103027,
+        "direccion_10m_deg": 316.7037353515625
+      },
+      {
+        "hora_pronostico": 50,
+        "valido_para": "2026-09-23T20:00:00+00:00",
+        "viento_10m_ms": 1.46440589427948,
+        "direccion_10m_deg": 322.86163330078125
+      },
+      {
+        "hora_pronostico": 51,
+        "valido_para": "2026-09-23T21:00:00+00:00",
+        "viento_10m_ms": 1.5145263671875,
+        "direccion_10m_deg": 359.80438232421875
+      },
+      {
+        "hora_pronostico": 52,
+        "valido_para": "2026-09-23T22:00:00+00:00",
+        "viento_10m_ms": 4.26436185836792,
+        "direccion_10m_deg": 9.180694580078125
+      },
+      {
+        "hora_pronostico": 53,
+        "valido_para": "2026-09-23T23:00:00+00:00",
+        "viento_10m_ms": 4.851779937744141,
+        "direccion_10m_deg": 14.886505126953125
+      },
+      {
+        "hora_pronostico": 54,
+        "valido_para": "2026-09-24T00:00:00+00:00",
+        "viento_10m_ms": 5.330146789550781,
+        "direccion_10m_deg": 8.6038818359375
+      },
+      {
+        "hora_pronostico": 55,
+        "valido_para": "2026-09-24T01:00:00+00:00",
+        "viento_10m_ms": 5.604902744293213,
+        "direccion_10m_deg": 3.7384872436523438
+      },
+      {
+        "hora_pronostico": 56,
+        "valido_para": "2026-09-24T02:00:00+00:00",
+        "viento_10m_ms": 5.7063398361206055,
+        "direccion_10m_deg": 357.0401916503906
+      },
+      {
+        "hora_pronostico": 57,
+        "valido_para": "2026-09-24T03:00:00+00:00",
+        "viento_10m_ms": 5.849195957183838,
+        "direccion_10m_deg": 351.08294677734375
+      },
+      {
+        "hora_pronostico": 58,
+        "valido_para": "2026-09-24T04:00:00+00:00",
+        "viento_10m_ms": 6.869083404541016,
+        "direccion_10m_deg": 347.46807861328125
+      },
+      {
+        "hora_pronostico": 59,
+        "valido_para": "2026-09-24T05:00:00+00:00",
+        "viento_10m_ms": 6.429626941680908,
+        "direccion_10m_deg": 341.3404235839844
+      },
+      {
+        "hora_pronostico": 60,
+        "valido_para": "2026-09-24T06:00:00+00:00",
+        "viento_10m_ms": 6.472927570343018,
+        "direccion_10m_deg": 340.6651611328125
+      },
+      {
+        "hora_pronostico": 61,
+        "valido_para": "2026-09-24T07:00:00+00:00",
+        "viento_10m_ms": 6.176188945770264,
+        "direccion_10m_deg": 343.5870361328125
+      },
+      {
+        "hora_pronostico": 62,
+        "valido_para": "2026-09-24T08:00:00+00:00",
+        "viento_10m_ms": 5.994816303253174,
+        "direccion_10m_deg": 342.33807373046875
+      },
+      {
+        "hora_pronostico": 63,
+        "valido_para": "2026-09-24T09:00:00+00:00",
+        "viento_10m_ms": 6.0741777420043945,
+        "direccion_10m_deg": 348.64056396484375
+      },
+      {
+        "hora_pronostico": 64,
+        "valido_para": "2026-09-24T10:00:00+00:00",
+        "viento_10m_ms": 6.111481189727783,
+        "direccion_10m_deg": 344.7611999511719
+      },
+      {
+        "hora_pronostico": 65,
+        "valido_para": "2026-09-24T11:00:00+00:00",
+        "viento_10m_ms": 6.373607158660889,
+        "direccion_10m_deg": 344.5172424316406
+      },
+      {
+        "hora_pronostico": 66,
+        "valido_para": "2026-09-24T12:00:00+00:00",
+        "viento_10m_ms": 6.276206016540527,
+        "direccion_10m_deg": 344.7314453125
+      },
+      {
+        "hora_pronostico": 67,
+        "valido_para": "2026-09-24T13:00:00+00:00",
+        "viento_10m_ms": 6.5078840255737305,
+        "direccion_10m_deg": 339.28582763671875
+      },
+      {
+        "hora_pronostico": 68,
+        "valido_para": "2026-09-24T14:00:00+00:00",
+        "viento_10m_ms": 5.511857986450195,
+        "direccion_10m_deg": 337.85577392578125
+      },
+      {
+        "hora_pronostico": 69,
+        "valido_para": "2026-09-24T15:00:00+00:00",
+        "viento_10m_ms": 4.813791751861572,
+        "direccion_10m_deg": 329.8569641113281
+      },
+      {
+        "hora_pronostico": 70,
+        "valido_para": "2026-09-24T16:00:00+00:00",
+        "viento_10m_ms": 3.9447882175445557,
+        "direccion_10m_deg": 327.3732604980469
+      },
+      {
+        "hora_pronostico": 71,
+        "valido_para": "2026-09-24T17:00:00+00:00",
+        "viento_10m_ms": 3.123013973236084,
+        "direccion_10m_deg": 324.12652587890625
+      },
+      {
+        "hora_pronostico": 72,
+        "valido_para": "2026-09-24T18:00:00+00:00",
+        "viento_10m_ms": 4.08143424987793,
+        "direccion_10m_deg": 321.12017822265625
+      }
+    ],
+    "La Plata": [
+      {
+        "hora_pronostico": 0,
+        "valido_para": "2026-09-21T18:00:00+00:00",
+        "viento_10m_ms": 7.965999603271484,
+        "direccion_10m_deg": 245.47604370117188
+      },
+      {
+        "hora_pronostico": 1,
+        "valido_para": "2026-09-21T19:00:00+00:00",
+        "viento_10m_ms": 9.372893333435059,
+        "direccion_10m_deg": 239.0009307861328
+      },
+      {
+        "hora_pronostico": 2,
+        "valido_para": "2026-09-21T20:00:00+00:00",
+        "viento_10m_ms": 9.341547012329102,
+        "direccion_10m_deg": 225.15553283691406
+      },
+      {
+        "hora_pronostico": 3,
+        "valido_para": "2026-09-21T21:00:00+00:00",
+        "viento_10m_ms": 9.875371932983398,
+        "direccion_10m_deg": 224.4535369873047
+      },
+      {
+        "hora_pronostico": 4,
+        "valido_para": "2026-09-21T22:00:00+00:00",
+        "viento_10m_ms": 6.600201606750488,
+        "direccion_10m_deg": 217.0455322265625
+      },
+      {
+        "hora_pronostico": 5,
+        "valido_para": "2026-09-21T23:00:00+00:00",
+        "viento_10m_ms": 6.123048305511475,
+        "direccion_10m_deg": 208.57901000976562
+      },
+      {
+        "hora_pronostico": 6,
+        "valido_para": "2026-09-22T00:00:00+00:00",
+        "viento_10m_ms": 6.494677543640137,
+        "direccion_10m_deg": 200.51953125
+      },
+      {
+        "hora_pronostico": 7,
+        "valido_para": "2026-09-22T01:00:00+00:00",
+        "viento_10m_ms": 4.719283103942871,
+        "direccion_10m_deg": 211.2982177734375
+      },
+      {
+        "hora_pronostico": 8,
+        "valido_para": "2026-09-22T02:00:00+00:00",
+        "viento_10m_ms": 4.8889265060424805,
+        "direccion_10m_deg": 217.4256134033203
+      },
+      {
+        "hora_pronostico": 9,
+        "valido_para": "2026-09-22T03:00:00+00:00",
+        "viento_10m_ms": 3.5933804512023926,
+        "direccion_10m_deg": 222.89952087402344
+      },
+      {
+        "hora_pronostico": 10,
+        "valido_para": "2026-09-22T04:00:00+00:00",
+        "viento_10m_ms": 4.890984058380127,
+        "direccion_10m_deg": 213.14027404785156
+      },
+      {
+        "hora_pronostico": 11,
+        "valido_para": "2026-09-22T05:00:00+00:00",
+        "viento_10m_ms": 4.2205915451049805,
+        "direccion_10m_deg": 213.65798950195312
+      },
+      {
+        "hora_pronostico": 12,
+        "valido_para": "2026-09-22T06:00:00+00:00",
+        "viento_10m_ms": 3.9240896701812744,
+        "direccion_10m_deg": 223.06509399414062
+      },
+      {
+        "hora_pronostico": 13,
+        "valido_para": "2026-09-22T07:00:00+00:00",
+        "viento_10m_ms": 3.5562117099761963,
+        "direccion_10m_deg": 221.27638244628906
+      },
+      {
+        "hora_pronostico": 14,
+        "valido_para": "2026-09-22T08:00:00+00:00",
+        "viento_10m_ms": 3.7729289531707764,
+        "direccion_10m_deg": 227.34751892089844
+      },
+      {
+        "hora_pronostico": 15,
+        "valido_para": "2026-09-22T09:00:00+00:00",
+        "viento_10m_ms": 4.119555473327637,
+        "direccion_10m_deg": 221.56378173828125
+      },
+      {
+        "hora_pronostico": 16,
+        "valido_para": "2026-09-22T10:00:00+00:00",
+        "viento_10m_ms": 4.109544277191162,
+        "direccion_10m_deg": 223.60861206054688
+      },
+      {
+        "hora_pronostico": 17,
+        "valido_para": "2026-09-22T11:00:00+00:00",
+        "viento_10m_ms": 4.7195258140563965,
+        "direccion_10m_deg": 220.2308349609375
+      },
+      {
+        "hora_pronostico": 18,
+        "valido_para": "2026-09-22T12:00:00+00:00",
+        "viento_10m_ms": 5.1985368728637695,
+        "direccion_10m_deg": 215.9254608154297
+      },
+      {
+        "hora_pronostico": 19,
+        "valido_para": "2026-09-22T13:00:00+00:00",
+        "viento_10m_ms": 4.963366508483887,
+        "direccion_10m_deg": 203.39825439453125
+      },
+      {
+        "hora_pronostico": 20,
+        "valido_para": "2026-09-22T14:00:00+00:00",
+        "viento_10m_ms": 4.219466686248779,
+        "direccion_10m_deg": 210.8238525390625
+      },
+      {
+        "hora_pronostico": 21,
+        "valido_para": "2026-09-22T15:00:00+00:00",
+        "viento_10m_ms": 3.7659788131713867,
+        "direccion_10m_deg": 214.8731689453125
+      },
+      {
+        "hora_pronostico": 22,
+        "valido_para": "2026-09-22T16:00:00+00:00",
+        "viento_10m_ms": 3.5805273056030273,
+        "direccion_10m_deg": 226.5108642578125
+      },
+      {
+        "hora_pronostico": 23,
+        "valido_para": "2026-09-22T17:00:00+00:00",
+        "viento_10m_ms": 3.5904300212860107,
+        "direccion_10m_deg": 233.6902313232422
+      },
+      {
+        "hora_pronostico": 24,
+        "valido_para": "2026-09-22T18:00:00+00:00",
+        "viento_10m_ms": 3.169179677963257,
+        "direccion_10m_deg": 235.98941040039062
+      },
+      {
+        "hora_pronostico": 25,
+        "valido_para": "2026-09-22T19:00:00+00:00",
+        "viento_10m_ms": 3.085737705230713,
+        "direccion_10m_deg": 236.1556396484375
+      },
+      {
+        "hora_pronostico": 26,
+        "valido_para": "2026-09-22T20:00:00+00:00",
+        "viento_10m_ms": 2.691944122314453,
+        "direccion_10m_deg": 229.50894165039062
+      },
+      {
+        "hora_pronostico": 27,
+        "valido_para": "2026-09-22T21:00:00+00:00",
+        "viento_10m_ms": 1.922266960144043,
+        "direccion_10m_deg": 249.1261749267578
+      },
+      {
+        "hora_pronostico": 28,
+        "valido_para": "2026-09-22T22:00:00+00:00",
+        "viento_10m_ms": 1.1027942895889282,
+        "direccion_10m_deg": 243.43331909179688
+      },
+      {
+        "hora_pronostico": 29,
+        "valido_para": "2026-09-22T23:00:00+00:00",
+        "viento_10m_ms": 0.9478698968887329,
+        "direccion_10m_deg": 227.6905059814453
+      },
+      {
+        "hora_pronostico": 30,
+        "valido_para": "2026-09-23T00:00:00+00:00",
+        "viento_10m_ms": 0.6709075570106506,
+        "direccion_10m_deg": 203.92001342773438
+      },
+      {
+        "hora_pronostico": 31,
+        "valido_para": "2026-09-23T01:00:00+00:00",
+        "viento_10m_ms": 0.6493909358978271,
+        "direccion_10m_deg": 203.02914428710938
+      },
+      {
+        "hora_pronostico": 32,
+        "valido_para": "2026-09-23T02:00:00+00:00",
+        "viento_10m_ms": 0.2673271596431732,
+        "direccion_10m_deg": 90.24657440185547
+      },
+      {
+        "hora_pronostico": 33,
+        "valido_para": "2026-09-23T03:00:00+00:00",
+        "viento_10m_ms": 0.0,
+        "direccion_10m_deg": 90.48143005371094
+      },
+      {
+        "hora_pronostico": 34,
+        "valido_para": "2026-09-23T04:00:00+00:00",
+        "viento_10m_ms": 0.5673514604568481,
+        "direccion_10m_deg": 4.0426788330078125
+      },
+      {
+        "hora_pronostico": 35,
+        "valido_para": "2026-09-23T05:00:00+00:00",
+        "viento_10m_ms": 3.0434019565582275,
+        "direccion_10m_deg": 342.8599548339844
+      },
+      {
+        "hora_pronostico": 36,
+        "valido_para": "2026-09-23T06:00:00+00:00",
+        "viento_10m_ms": 3.35776948928833,
+        "direccion_10m_deg": 348.6702575683594
+      },
+      {
+        "hora_pronostico": 37,
+        "valido_para": "2026-09-23T07:00:00+00:00",
+        "viento_10m_ms": 3.7913994789123535,
+        "direccion_10m_deg": 348.4882507324219
+      },
+      {
+        "hora_pronostico": 38,
+        "valido_para": "2026-09-23T08:00:00+00:00",
+        "viento_10m_ms": 4.405143737792969,
+        "direccion_10m_deg": 355.4635009765625
+      },
+      {
+        "hora_pronostico": 39,
+        "valido_para": "2026-09-23T09:00:00+00:00",
+        "viento_10m_ms": 4.739912033081055,
+        "direccion_10m_deg": 354.9610595703125
+      },
+      {
+        "hora_pronostico": 40,
+        "valido_para": "2026-09-23T10:00:00+00:00",
+        "viento_10m_ms": 5.162736415863037,
+        "direccion_10m_deg": 355.76983642578125
+      },
+      {
+        "hora_pronostico": 41,
+        "valido_para": "2026-09-23T11:00:00+00:00",
+        "viento_10m_ms": 5.454922199249268,
+        "direccion_10m_deg": 356.16998291015625
+      },
+      {
+        "hora_pronostico": 42,
+        "valido_para": "2026-09-23T12:00:00+00:00",
+        "viento_10m_ms": 5.635186195373535,
+        "direccion_10m_deg": 355.026611328125
+      },
+      {
+        "hora_pronostico": 43,
+        "valido_para": "2026-09-23T13:00:00+00:00",
+        "viento_10m_ms": 5.527587413787842,
+        "direccion_10m_deg": 355.75250244140625
+      },
+      {
+        "hora_pronostico": 44,
+        "valido_para": "2026-09-23T14:00:00+00:00",
+        "viento_10m_ms": 5.583561897277832,
+        "direccion_10m_deg": 355.9012451171875
+      },
+      {
+        "hora_pronostico": 45,
+        "valido_para": "2026-09-23T15:00:00+00:00",
+        "viento_10m_ms": 4.934969425201416,
+        "direccion_10m_deg": 351.6119384765625
+      },
+      {
+        "hora_pronostico": 46,
+        "valido_para": "2026-09-23T16:00:00+00:00",
+        "viento_10m_ms": 5.074918270111084,
+        "direccion_10m_deg": 342.8414306640625
+      },
+      {
+        "hora_pronostico": 47,
+        "valido_para": "2026-09-23T17:00:00+00:00",
+        "viento_10m_ms": 4.693461894989014,
+        "direccion_10m_deg": 336.66107177734375
+      },
+      {
+        "hora_pronostico": 48,
+        "valido_para": "2026-09-23T18:00:00+00:00",
+        "viento_10m_ms": 4.12933874130249,
+        "direccion_10m_deg": 327.57989501953125
+      },
+      {
+        "hora_pronostico": 49,
+        "valido_para": "2026-09-23T19:00:00+00:00",
+        "viento_10m_ms": 3.6578378677368164,
+        "direccion_10m_deg": 337.0081481933594
+      },
+      {
+        "hora_pronostico": 50,
+        "valido_para": "2026-09-23T20:00:00+00:00",
+        "viento_10m_ms": 2.8601768016815186,
+        "direccion_10m_deg": 342.16278076171875
+      },
+      {
+        "hora_pronostico": 51,
+        "valido_para": "2026-09-23T21:00:00+00:00",
+        "viento_10m_ms": 1.535277009010315,
+        "direccion_10m_deg": 31.281631469726562
+      },
+      {
+        "hora_pronostico": 52,
+        "valido_para": "2026-09-23T22:00:00+00:00",
+        "viento_10m_ms": 1.3252416849136353,
+        "direccion_10m_deg": 28.04961395263672
+      },
+      {
+        "hora_pronostico": 53,
+        "valido_para": "2026-09-23T23:00:00+00:00",
+        "viento_10m_ms": 5.303587436676025,
+        "direccion_10m_deg": 12.043914794921875
+      },
+      {
+        "hora_pronostico": 54,
+        "valido_para": "2026-09-24T00:00:00+00:00",
+        "viento_10m_ms": 5.805448532104492,
+        "direccion_10m_deg": 6.127311706542969
+      },
+      {
+        "hora_pronostico": 55,
+        "valido_para": "2026-09-24T01:00:00+00:00",
+        "viento_10m_ms": 5.486119747161865,
+        "direccion_10m_deg": 358.6588439941406
+      },
+      {
+        "hora_pronostico": 56,
+        "valido_para": "2026-09-24T02:00:00+00:00",
+        "viento_10m_ms": 5.474493026733398,
+        "direccion_10m_deg": 354.54522705078125
+      },
+      {
+        "hora_pronostico": 57,
+        "valido_para": "2026-09-24T03:00:00+00:00",
+        "viento_10m_ms": 5.7111496925354,
+        "direccion_10m_deg": 348.89227294921875
+      },
+      {
+        "hora_pronostico": 58,
+        "valido_para": "2026-09-24T04:00:00+00:00",
+        "viento_10m_ms": 5.983088493347168,
+        "direccion_10m_deg": 343.34765625
+      },
+      {
+        "hora_pronostico": 59,
+        "valido_para": "2026-09-24T05:00:00+00:00",
+        "viento_10m_ms": 5.909370422363281,
+        "direccion_10m_deg": 338.56298828125
+      },
+      {
+        "hora_pronostico": 60,
+        "valido_para": "2026-09-24T06:00:00+00:00",
+        "viento_10m_ms": 5.966079235076904,
+        "direccion_10m_deg": 336.4507751464844
+      },
+      {
+        "hora_pronostico": 61,
+        "valido_para": "2026-09-24T07:00:00+00:00",
+        "viento_10m_ms": 5.870053291320801,
+        "direccion_10m_deg": 336.86749267578125
+      },
+      {
+        "hora_pronostico": 62,
+        "valido_para": "2026-09-24T08:00:00+00:00",
+        "viento_10m_ms": 5.558440685272217,
+        "direccion_10m_deg": 337.4693908691406
+      },
+      {
+        "hora_pronostico": 63,
+        "valido_para": "2026-09-24T09:00:00+00:00",
+        "viento_10m_ms": 5.60062837600708,
+        "direccion_10m_deg": 340.3839416503906
+      },
+      {
+        "hora_pronostico": 64,
+        "valido_para": "2026-09-24T10:00:00+00:00",
+        "viento_10m_ms": 5.369157314300537,
+        "direccion_10m_deg": 338.97802734375
+      },
+      {
+        "hora_pronostico": 65,
+        "valido_para": "2026-09-24T11:00:00+00:00",
+        "viento_10m_ms": 5.248602390289307,
+        "direccion_10m_deg": 338.9521789550781
+      },
+      {
+        "hora_pronostico": 66,
+        "valido_para": "2026-09-24T12:00:00+00:00",
+        "viento_10m_ms": 5.472088813781738,
+        "direccion_10m_deg": 337.25189208984375
+      },
+      {
+        "hora_pronostico": 67,
+        "valido_para": "2026-09-24T13:00:00+00:00",
+        "viento_10m_ms": 5.909189224243164,
+        "direccion_10m_deg": 335.6683044433594
+      },
+      {
+        "hora_pronostico": 68,
+        "valido_para": "2026-09-24T14:00:00+00:00",
+        "viento_10m_ms": 5.442596435546875,
+        "direccion_10m_deg": 337.3486022949219
+      },
+      {
+        "hora_pronostico": 69,
+        "valido_para": "2026-09-24T15:00:00+00:00",
+        "viento_10m_ms": 5.118890285491943,
+        "direccion_10m_deg": 333.55108642578125
+      },
+      {
+        "hora_pronostico": 70,
+        "valido_para": "2026-09-24T16:00:00+00:00",
+        "viento_10m_ms": 5.190256118774414,
+        "direccion_10m_deg": 336.27740478515625
+      },
+      {
+        "hora_pronostico": 71,
+        "valido_para": "2026-09-24T17:00:00+00:00",
+        "viento_10m_ms": 5.779108047485352,
+        "direccion_10m_deg": 334.5333557128906
+      },
+      {
+        "hora_pronostico": 72,
+        "valido_para": "2026-09-24T18:00:00+00:00",
+        "viento_10m_ms": 5.331969738006592,
+        "direccion_10m_deg": 338.7762756347656
+      }
+    ],
+    "Atalaya": [
+      {
+        "hora_pronostico": 0,
+        "valido_para": "2026-09-21T18:00:00+00:00",
+        "viento_10m_ms": 9.443367004394531,
+        "direccion_10m_deg": 252.84310913085938
+      },
+      {
+        "hora_pronostico": 1,
+        "valido_para": "2026-09-21T19:00:00+00:00",
+        "viento_10m_ms": 10.3565673828125,
+        "direccion_10m_deg": 243.2241973876953
+      },
+      {
+        "hora_pronostico": 2,
+        "valido_para": "2026-09-21T20:00:00+00:00",
+        "viento_10m_ms": 10.455209732055664,
+        "direccion_10m_deg": 232.03773498535156
+      },
+      {
+        "hora_pronostico": 3,
+        "valido_para": "2026-09-21T21:00:00+00:00",
+        "viento_10m_ms": 8.620298385620117,
+        "direccion_10m_deg": 229.18453979492188
+      },
+      {
+        "hora_pronostico": 4,
+        "valido_para": "2026-09-21T22:00:00+00:00",
+        "viento_10m_ms": 7.873630046844482,
+        "direccion_10m_deg": 229.3798065185547
+      },
+      {
+        "hora_pronostico": 5,
+        "valido_para": "2026-09-21T23:00:00+00:00",
+        "viento_10m_ms": 5.302746295928955,
+        "direccion_10m_deg": 216.88783264160156
+      },
+      {
+        "hora_pronostico": 6,
+        "valido_para": "2026-09-22T00:00:00+00:00",
+        "viento_10m_ms": 4.135209560394287,
+        "direccion_10m_deg": 210.61660766601562
+      },
+      {
+        "hora_pronostico": 7,
+        "valido_para": "2026-09-22T01:00:00+00:00",
+        "viento_10m_ms": 3.5839014053344727,
+        "direccion_10m_deg": 218.54457092285156
+      },
+      {
+        "hora_pronostico": 8,
+        "valido_para": "2026-09-22T02:00:00+00:00",
+        "viento_10m_ms": 3.7285547256469727,
+        "direccion_10m_deg": 222.69879150390625
+      },
+      {
+        "hora_pronostico": 9,
+        "valido_para": "2026-09-22T03:00:00+00:00",
+        "viento_10m_ms": 2.6277430057525635,
+        "direccion_10m_deg": 229.48489379882812
+      },
+      {
+        "hora_pronostico": 10,
+        "valido_para": "2026-09-22T04:00:00+00:00",
+        "viento_10m_ms": 2.60640811920166,
+        "direccion_10m_deg": 233.33258056640625
+      },
+      {
+        "hora_pronostico": 11,
+        "valido_para": "2026-09-22T05:00:00+00:00",
+        "viento_10m_ms": 3.1349711418151855,
+        "direccion_10m_deg": 231.6625213623047
+      },
+      {
+        "hora_pronostico": 12,
+        "valido_para": "2026-09-22T06:00:00+00:00",
+        "viento_10m_ms": 2.938248634338379,
+        "direccion_10m_deg": 234.39794921875
+      },
+      {
+        "hora_pronostico": 13,
+        "valido_para": "2026-09-22T07:00:00+00:00",
+        "viento_10m_ms": 3.0487802028656006,
+        "direccion_10m_deg": 234.818603515625
+      },
+      {
+        "hora_pronostico": 14,
+        "valido_para": "2026-09-22T08:00:00+00:00",
+        "viento_10m_ms": 3.1493258476257324,
+        "direccion_10m_deg": 234.67359924316406
+      },
+      {
+        "hora_pronostico": 15,
+        "valido_para": "2026-09-22T09:00:00+00:00",
+        "viento_10m_ms": 3.4360992908477783,
+        "direccion_10m_deg": 231.2040252685547
+      },
+      {
+        "hora_pronostico": 16,
+        "valido_para": "2026-09-22T10:00:00+00:00",
+        "viento_10m_ms": 3.3723530769348145,
+        "direccion_10m_deg": 234.2821044921875
+      },
+      {
+        "hora_pronostico": 17,
+        "valido_para": "2026-09-22T11:00:00+00:00",
+        "viento_10m_ms": 4.240527629852295,
+        "direccion_10m_deg": 230.77896118164062
+      },
+      {
+        "hora_pronostico": 18,
+        "valido_para": "2026-09-22T12:00:00+00:00",
+        "viento_10m_ms": 5.332272052764893,
+        "direccion_10m_deg": 219.5804901123047
+      },
+      {
+        "hora_pronostico": 19,
+        "valido_para": "2026-09-22T13:00:00+00:00",
+        "viento_10m_ms": 5.1982831954956055,
+        "direccion_10m_deg": 212.00465393066406
+      },
+      {
+        "hora_pronostico": 20,
+        "valido_para": "2026-09-22T14:00:00+00:00",
+        "viento_10m_ms": 4.703370094299316,
+        "direccion_10m_deg": 214.28890991210938
+      },
+      {
+        "hora_pronostico": 21,
+        "valido_para": "2026-09-22T15:00:00+00:00",
+        "viento_10m_ms": 4.4392571449279785,
+        "direccion_10m_deg": 218.3100128173828
+      },
+      {
+        "hora_pronostico": 22,
+        "valido_para": "2026-09-22T16:00:00+00:00",
+        "viento_10m_ms": 4.273220062255859,
+        "direccion_10m_deg": 226.48126220703125
+      },
+      {
+        "hora_pronostico": 23,
+        "valido_para": "2026-09-22T17:00:00+00:00",
+        "viento_10m_ms": 4.460015773773193,
+        "direccion_10m_deg": 232.65985107421875
+      },
+      {
+        "hora_pronostico": 24,
+        "valido_para": "2026-09-22T18:00:00+00:00",
+        "viento_10m_ms": 3.980231761932373,
+        "direccion_10m_deg": 224.83441162109375
+      },
+      {
+        "hora_pronostico": 25,
+        "valido_para": "2026-09-22T19:00:00+00:00",
+        "viento_10m_ms": 3.659770965576172,
+        "direccion_10m_deg": 212.5983123779297
+      },
+      {
+        "hora_pronostico": 26,
+        "valido_para": "2026-09-22T20:00:00+00:00",
+        "viento_10m_ms": 3.0483510494232178,
+        "direccion_10m_deg": 211.3995819091797
+      },
+      {
+        "hora_pronostico": 27,
+        "valido_para": "2026-09-22T21:00:00+00:00",
+        "viento_10m_ms": 0.911435604095459,
+        "direccion_10m_deg": 164.39337158203125
+      },
+      {
+        "hora_pronostico": 28,
+        "valido_para": "2026-09-22T22:00:00+00:00",
+        "viento_10m_ms": 0.641777753829956,
+        "direccion_10m_deg": 109.57344818115234
+      },
+      {
+        "hora_pronostico": 29,
+        "valido_para": "2026-09-22T23:00:00+00:00",
+        "viento_10m_ms": 0.5429966449737549,
+        "direccion_10m_deg": 158.01622009277344
+      },
+      {
+        "hora_pronostico": 30,
+        "valido_para": "2026-09-23T00:00:00+00:00",
+        "viento_10m_ms": 0.6462030410766602,
+        "direccion_10m_deg": 166.12503051757812
+      },
+      {
+        "hora_pronostico": 31,
+        "valido_para": "2026-09-23T01:00:00+00:00",
+        "viento_10m_ms": 0.1799953281879425,
+        "direccion_10m_deg": 119.43399047851562
+      },
+      {
+        "hora_pronostico": 32,
+        "valido_para": "2026-09-23T02:00:00+00:00",
+        "viento_10m_ms": 0.3415687084197998,
+        "direccion_10m_deg": 96.51197052001953
+      },
+      {
+        "hora_pronostico": 33,
+        "valido_para": "2026-09-23T03:00:00+00:00",
+        "viento_10m_ms": 0.16158509254455566,
+        "direccion_10m_deg": 60.83238983154297
+      },
+      {
+        "hora_pronostico": 34,
+        "valido_para": "2026-09-23T04:00:00+00:00",
+        "viento_10m_ms": 0.6154389977455139,
+        "direccion_10m_deg": 25.78040313720703
+      },
+      {
+        "hora_pronostico": 35,
+        "valido_para": "2026-09-23T05:00:00+00:00",
+        "viento_10m_ms": 0.8477150797843933,
+        "direccion_10m_deg": 3.7056427001953125
+      },
+      {
+        "hora_pronostico": 36,
+        "valido_para": "2026-09-23T06:00:00+00:00",
+        "viento_10m_ms": 1.9123674631118774,
+        "direccion_10m_deg": 326.0670471191406
+      },
+      {
+        "hora_pronostico": 37,
+        "valido_para": "2026-09-23T07:00:00+00:00",
+        "viento_10m_ms": 2.516263246536255,
+        "direccion_10m_deg": 334.5527648925781
+      },
+      {
+        "hora_pronostico": 38,
+        "valido_para": "2026-09-23T08:00:00+00:00",
+        "viento_10m_ms": 3.069396734237671,
+        "direccion_10m_deg": 342.06304931640625
+      },
+      {
+        "hora_pronostico": 39,
+        "valido_para": "2026-09-23T09:00:00+00:00",
+        "viento_10m_ms": 3.8271219730377197,
+        "direccion_10m_deg": 348.5934753417969
+      },
+      {
+        "hora_pronostico": 40,
+        "valido_para": "2026-09-23T10:00:00+00:00",
+        "viento_10m_ms": 4.467405796051025,
+        "direccion_10m_deg": 349.249755859375
+      },
+      {
+        "hora_pronostico": 41,
+        "valido_para": "2026-09-23T11:00:00+00:00",
+        "viento_10m_ms": 5.135210990905762,
+        "direccion_10m_deg": 350.8597717285156
+      },
+      {
+        "hora_pronostico": 42,
+        "valido_para": "2026-09-23T12:00:00+00:00",
+        "viento_10m_ms": 5.996303558349609,
+        "direccion_10m_deg": 351.559814453125
+      },
+      {
+        "hora_pronostico": 43,
+        "valido_para": "2026-09-23T13:00:00+00:00",
+        "viento_10m_ms": 5.939897537231445,
+        "direccion_10m_deg": 350.83111572265625
+      },
+      {
+        "hora_pronostico": 44,
+        "valido_para": "2026-09-23T14:00:00+00:00",
+        "viento_10m_ms": 6.135675430297852,
+        "direccion_10m_deg": 353.5183410644531
+      },
+      {
+        "hora_pronostico": 45,
+        "valido_para": "2026-09-23T15:00:00+00:00",
+        "viento_10m_ms": 5.7748541831970215,
+        "direccion_10m_deg": 353.7212829589844
+      },
+      {
+        "hora_pronostico": 46,
+        "valido_para": "2026-09-23T16:00:00+00:00",
+        "viento_10m_ms": 5.356337070465088,
+        "direccion_10m_deg": 351.1997375488281
+      },
+      {
+        "hora_pronostico": 47,
+        "valido_para": "2026-09-23T17:00:00+00:00",
+        "viento_10m_ms": 5.042971134185791,
+        "direccion_10m_deg": 2.3823699951171875
+      },
+      {
+        "hora_pronostico": 48,
+        "valido_para": "2026-09-23T18:00:00+00:00",
+        "viento_10m_ms": 4.434676647186279,
+        "direccion_10m_deg": 0.507659912109375
+      },
+      {
+        "hora_pronostico": 49,
+        "valido_para": "2026-09-23T19:00:00+00:00",
+        "viento_10m_ms": 3.350148916244507,
+        "direccion_10m_deg": 0.5798263549804688
+      },
+      {
+        "hora_pronostico": 50,
+        "valido_para": "2026-09-23T20:00:00+00:00",
+        "viento_10m_ms": 2.4819769859313965,
+        "direccion_10m_deg": 6.2391204833984375
+      },
+      {
+        "hora_pronostico": 51,
+        "valido_para": "2026-09-23T21:00:00+00:00",
+        "viento_10m_ms": 3.7405123710632324,
+        "direccion_10m_deg": 28.656360626220703
+      },
+      {
+        "hora_pronostico": 52,
+        "valido_para": "2026-09-23T22:00:00+00:00",
+        "viento_10m_ms": 4.8271284103393555,
+        "direccion_10m_deg": 21.855148315429688
+      },
+      {
+        "hora_pronostico": 53,
+        "valido_para": "2026-09-23T23:00:00+00:00",
+        "viento_10m_ms": 6.345670223236084,
+        "direccion_10m_deg": 10.391510009765625
+      },
+      {
+        "hora_pronostico": 54,
+        "valido_para": "2026-09-24T00:00:00+00:00",
+        "viento_10m_ms": 6.585391521453857,
+        "direccion_10m_deg": 4.90423583984375
+      },
+      {
+        "hora_pronostico": 55,
+        "valido_para": "2026-09-24T01:00:00+00:00",
+        "viento_10m_ms": 5.8781843185424805,
+        "direccion_10m_deg": 355.33001708984375
+      },
+      {
+        "hora_pronostico": 56,
+        "valido_para": "2026-09-24T02:00:00+00:00",
+        "viento_10m_ms": 5.7586212158203125,
+        "direccion_10m_deg": 348.9437255859375
+      },
+      {
+        "hora_pronostico": 57,
+        "valido_para": "2026-09-24T03:00:00+00:00",
+        "viento_10m_ms": 5.057645797729492,
+        "direccion_10m_deg": 342.1956787109375
+      },
+      {
+        "hora_pronostico": 58,
+        "valido_para": "2026-09-24T04:00:00+00:00",
+        "viento_10m_ms": 5.303764343261719,
+        "direccion_10m_deg": 340.44378662109375
+      },
+      {
+        "hora_pronostico": 59,
+        "valido_para": "2026-09-24T05:00:00+00:00",
+        "viento_10m_ms": 4.902159214019775,
+        "direccion_10m_deg": 335.4776916503906
+      },
+      {
+        "hora_pronostico": 60,
+        "valido_para": "2026-09-24T06:00:00+00:00",
+        "viento_10m_ms": 4.485793113708496,
+        "direccion_10m_deg": 335.35546875
+      },
+      {
+        "hora_pronostico": 61,
+        "valido_para": "2026-09-24T07:00:00+00:00",
+        "viento_10m_ms": 4.7621355056762695,
+        "direccion_10m_deg": 337.432373046875
+      },
+      {
+        "hora_pronostico": 62,
+        "valido_para": "2026-09-24T08:00:00+00:00",
+        "viento_10m_ms": 4.40736722946167,
+        "direccion_10m_deg": 336.7752380371094
+      },
+      {
+        "hora_pronostico": 63,
+        "valido_para": "2026-09-24T09:00:00+00:00",
+        "viento_10m_ms": 4.68009090423584,
+        "direccion_10m_deg": 341.1612548828125
+      },
+      {
+        "hora_pronostico": 64,
+        "valido_para": "2026-09-24T10:00:00+00:00",
+        "viento_10m_ms": 4.23040771484375,
+        "direccion_10m_deg": 336.7330017089844
+      },
+      {
+        "hora_pronostico": 65,
+        "valido_para": "2026-09-24T11:00:00+00:00",
+        "viento_10m_ms": 4.907364368438721,
+        "direccion_10m_deg": 339.1432800292969
+      },
+      {
+        "hora_pronostico": 66,
+        "valido_para": "2026-09-24T12:00:00+00:00",
+        "viento_10m_ms": 5.665985107421875,
+        "direccion_10m_deg": 336.37908935546875
+      },
+      {
+        "hora_pronostico": 67,
+        "valido_para": "2026-09-24T13:00:00+00:00",
+        "viento_10m_ms": 5.470148086547852,
+        "direccion_10m_deg": 338.2324523925781
+      },
+      {
+        "hora_pronostico": 68,
+        "valido_para": "2026-09-24T14:00:00+00:00",
+        "viento_10m_ms": 5.228085041046143,
+        "direccion_10m_deg": 341.20672607421875
+      },
+      {
+        "hora_pronostico": 69,
+        "valido_para": "2026-09-24T15:00:00+00:00",
+        "viento_10m_ms": 4.6232147216796875,
+        "direccion_10m_deg": 339.4403076171875
+      },
+      {
+        "hora_pronostico": 70,
+        "valido_para": "2026-09-24T16:00:00+00:00",
+        "viento_10m_ms": 4.53779411315918,
+        "direccion_10m_deg": 339.2626953125
+      },
+      {
+        "hora_pronostico": 71,
+        "valido_para": "2026-09-24T17:00:00+00:00",
+        "viento_10m_ms": 4.615080833435059,
+        "direccion_10m_deg": 340.1818542480469
+      },
+      {
+        "hora_pronostico": 72,
+        "valido_para": "2026-09-24T18:00:00+00:00",
+        "viento_10m_ms": 4.39947509765625,
+        "direccion_10m_deg": 338.63824462890625
+      }
+    ],
+    "Oyarvide (Canal Punta Indio)": [
+      {
+        "hora_pronostico": 0,
+        "valido_para": "2026-09-21T18:00:00+00:00",
+        "viento_10m_ms": 12.002190589904785,
+        "direccion_10m_deg": 257.79229736328125
+      },
+      {
+        "hora_pronostico": 1,
+        "valido_para": "2026-09-21T19:00:00+00:00",
+        "viento_10m_ms": 12.145742416381836,
+        "direccion_10m_deg": 246.0899658203125
+      },
+      {
+        "hora_pronostico": 2,
+        "valido_para": "2026-09-21T20:00:00+00:00",
+        "viento_10m_ms": 12.942481994628906,
+        "direccion_10m_deg": 219.66241455078125
+      },
+      {
+        "hora_pronostico": 3,
+        "valido_para": "2026-09-21T21:00:00+00:00",
+        "viento_10m_ms": 13.028684616088867,
+        "direccion_10m_deg": 226.21780395507812
+      },
+      {
+        "hora_pronostico": 4,
+        "valido_para": "2026-09-21T22:00:00+00:00",
+        "viento_10m_ms": 11.795598983764648,
+        "direccion_10m_deg": 221.77365112304688
+      },
+      {
+        "hora_pronostico": 5,
+        "valido_para": "2026-09-21T23:00:00+00:00",
+        "viento_10m_ms": 8.790687561035156,
+        "direccion_10m_deg": 220.75592041015625
+      },
+      {
+        "hora_pronostico": 6,
+        "valido_para": "2026-09-22T00:00:00+00:00",
+        "viento_10m_ms": 8.441222190856934,
+        "direccion_10m_deg": 221.6143798828125
+      },
+      {
+        "hora_pronostico": 7,
+        "valido_para": "2026-09-22T01:00:00+00:00",
+        "viento_10m_ms": 7.451338768005371,
+        "direccion_10m_deg": 213.56399536132812
+      },
+      {
+        "hora_pronostico": 8,
+        "valido_para": "2026-09-22T02:00:00+00:00",
+        "viento_10m_ms": 6.999440670013428,
+        "direccion_10m_deg": 219.36300659179688
+      },
+      {
+        "hora_pronostico": 9,
+        "valido_para": "2026-09-22T03:00:00+00:00",
+        "viento_10m_ms": 7.062628269195557,
+        "direccion_10m_deg": 215.21633911132812
+      },
+      {
+        "hora_pronostico": 10,
+        "valido_para": "2026-09-22T04:00:00+00:00",
+        "viento_10m_ms": 5.794384956359863,
+        "direccion_10m_deg": 225.16615295410156
+      },
+      {
+        "hora_pronostico": 11,
+        "valido_para": "2026-09-22T05:00:00+00:00",
+        "viento_10m_ms": 7.339278221130371,
+        "direccion_10m_deg": 218.9413299560547
+      },
+      {
+        "hora_pronostico": 12,
+        "valido_para": "2026-09-22T06:00:00+00:00",
+        "viento_10m_ms": 7.547045707702637,
+        "direccion_10m_deg": 221.01194763183594
+      },
+      {
+        "hora_pronostico": 13,
+        "valido_para": "2026-09-22T07:00:00+00:00",
+        "viento_10m_ms": 6.859612464904785,
+        "direccion_10m_deg": 226.5469207763672
+      },
+      {
+        "hora_pronostico": 14,
+        "valido_para": "2026-09-22T08:00:00+00:00",
+        "viento_10m_ms": 7.498589992523193,
+        "direccion_10m_deg": 223.80502319335938
+      },
+      {
+        "hora_pronostico": 15,
+        "valido_para": "2026-09-22T09:00:00+00:00",
+        "viento_10m_ms": 7.614140510559082,
+        "direccion_10m_deg": 226.4381103515625
+      },
+      {
+        "hora_pronostico": 16,
+        "valido_para": "2026-09-22T10:00:00+00:00",
+        "viento_10m_ms": 7.291252613067627,
+        "direccion_10m_deg": 222.51388549804688
+      },
+      {
+        "hora_pronostico": 17,
+        "valido_para": "2026-09-22T11:00:00+00:00",
+        "viento_10m_ms": 6.926421165466309,
+        "direccion_10m_deg": 222.6236572265625
+      },
+      {
+        "hora_pronostico": 18,
+        "valido_para": "2026-09-22T12:00:00+00:00",
+        "viento_10m_ms": 7.86719274520874,
+        "direccion_10m_deg": 218.50140380859375
+      },
+      {
+        "hora_pronostico": 19,
+        "valido_para": "2026-09-22T13:00:00+00:00",
+        "viento_10m_ms": 6.535726070404053,
+        "direccion_10m_deg": 211.38412475585938
+      },
+      {
+        "hora_pronostico": 20,
+        "valido_para": "2026-09-22T14:00:00+00:00",
+        "viento_10m_ms": 5.804599285125732,
+        "direccion_10m_deg": 207.0494384765625
+      },
+      {
+        "hora_pronostico": 21,
+        "valido_para": "2026-09-22T15:00:00+00:00",
+        "viento_10m_ms": 4.804954528808594,
+        "direccion_10m_deg": 211.06488037109375
+      },
+      {
+        "hora_pronostico": 22,
+        "valido_para": "2026-09-22T16:00:00+00:00",
+        "viento_10m_ms": 3.396012306213379,
+        "direccion_10m_deg": 225.8153533935547
+      },
+      {
+        "hora_pronostico": 23,
+        "valido_para": "2026-09-22T17:00:00+00:00",
+        "viento_10m_ms": 2.296436071395874,
+        "direccion_10m_deg": 240.70062255859375
+      },
+      {
+        "hora_pronostico": 24,
+        "valido_para": "2026-09-22T18:00:00+00:00",
+        "viento_10m_ms": 4.165533065795898,
+        "direccion_10m_deg": 97.55220794677734
+      },
+      {
+        "hora_pronostico": 25,
+        "valido_para": "2026-09-22T19:00:00+00:00",
+        "viento_10m_ms": 4.473948001861572,
+        "direccion_10m_deg": 75.65394592285156
+      },
+      {
+        "hora_pronostico": 26,
+        "valido_para": "2026-09-22T20:00:00+00:00",
+        "viento_10m_ms": 5.074570655822754,
+        "direccion_10m_deg": 64.52882385253906
+      },
+      {
+        "hora_pronostico": 27,
+        "valido_para": "2026-09-22T21:00:00+00:00",
+        "viento_10m_ms": 2.234520196914673,
+        "direccion_10m_deg": 5.1665191650390625
+      },
+      {
+        "hora_pronostico": 28,
+        "valido_para": "2026-09-22T22:00:00+00:00",
+        "viento_10m_ms": 2.1059157848358154,
+        "direccion_10m_deg": 8.876968383789062
+      },
+      {
+        "hora_pronostico": 29,
+        "valido_para": "2026-09-22T23:00:00+00:00",
+        "viento_10m_ms": 0.9415144920349121,
+        "direccion_10m_deg": 16.763206481933594
+      },
+      {
+        "hora_pronostico": 30,
+        "valido_para": "2026-09-23T00:00:00+00:00",
+        "viento_10m_ms": 2.578566551208496,
+        "direccion_10m_deg": 50.6949462890625
+      },
+      {
+        "hora_pronostico": 31,
+        "valido_para": "2026-09-23T01:00:00+00:00",
+        "viento_10m_ms": 2.385725736618042,
+        "direccion_10m_deg": 44.56406784057617
+      },
+      {
+        "hora_pronostico": 32,
+        "valido_para": "2026-09-23T02:00:00+00:00",
+        "viento_10m_ms": 2.017664670944214,
+        "direccion_10m_deg": 30.39114761352539
+      },
+      {
+        "hora_pronostico": 33,
+        "valido_para": "2026-09-23T03:00:00+00:00",
+        "viento_10m_ms": 4.983652591705322,
+        "direccion_10m_deg": 21.390518188476562
+      },
+      {
+        "hora_pronostico": 34,
+        "valido_para": "2026-09-23T04:00:00+00:00",
+        "viento_10m_ms": 5.074953079223633,
+        "direccion_10m_deg": 11.664459228515625
+      },
+      {
+        "hora_pronostico": 35,
+        "valido_para": "2026-09-23T05:00:00+00:00",
+        "viento_10m_ms": 5.29506778717041,
+        "direccion_10m_deg": 6.1262664794921875
+      },
+      {
+        "hora_pronostico": 36,
+        "valido_para": "2026-09-23T06:00:00+00:00",
+        "viento_10m_ms": 5.302700042724609,
+        "direccion_10m_deg": 358.7911682128906
+      },
+      {
+        "hora_pronostico": 37,
+        "valido_para": "2026-09-23T07:00:00+00:00",
+        "viento_10m_ms": 4.753801345825195,
+        "direccion_10m_deg": 357.07891845703125
+      },
+      {
+        "hora_pronostico": 38,
+        "valido_para": "2026-09-23T08:00:00+00:00",
+        "viento_10m_ms": 5.120881080627441,
+        "direccion_10m_deg": 350.18511962890625
+      },
+      {
+        "hora_pronostico": 39,
+        "valido_para": "2026-09-23T09:00:00+00:00",
+        "viento_10m_ms": 5.256986141204834,
+        "direccion_10m_deg": 348.1859436035156
+      },
+      {
+        "hora_pronostico": 40,
+        "valido_para": "2026-09-23T10:00:00+00:00",
+        "viento_10m_ms": 6.09706974029541,
+        "direccion_10m_deg": 347.24273681640625
+      },
+      {
+        "hora_pronostico": 41,
+        "valido_para": "2026-09-23T11:00:00+00:00",
+        "viento_10m_ms": 6.3939971923828125,
+        "direccion_10m_deg": 347.41064453125
+      },
+      {
+        "hora_pronostico": 42,
+        "valido_para": "2026-09-23T12:00:00+00:00",
+        "viento_10m_ms": 7.275979518890381,
+        "direccion_10m_deg": 347.92352294921875
+      },
+      {
+        "hora_pronostico": 43,
+        "valido_para": "2026-09-23T13:00:00+00:00",
+        "viento_10m_ms": 7.2820515632629395,
+        "direccion_10m_deg": 348.8263244628906
+      },
+      {
+        "hora_pronostico": 44,
+        "valido_para": "2026-09-23T14:00:00+00:00",
+        "viento_10m_ms": 6.945540904998779,
+        "direccion_10m_deg": 350.86553955078125
+      },
+      {
+        "hora_pronostico": 45,
+        "valido_para": "2026-09-23T15:00:00+00:00",
+        "viento_10m_ms": 6.505612850189209,
+        "direccion_10m_deg": 350.9270935058594
+      },
+      {
+        "hora_pronostico": 46,
+        "valido_para": "2026-09-23T16:00:00+00:00",
+        "viento_10m_ms": 6.156141757965088,
+        "direccion_10m_deg": 350.08819580078125
+      },
+      {
+        "hora_pronostico": 47,
+        "valido_para": "2026-09-23T17:00:00+00:00",
+        "viento_10m_ms": 5.260281085968018,
+        "direccion_10m_deg": 351.48712158203125
+      },
+      {
+        "hora_pronostico": 48,
+        "valido_para": "2026-09-23T18:00:00+00:00",
+        "viento_10m_ms": 4.209808349609375,
+        "direccion_10m_deg": 0.66217041015625
+      },
+      {
+        "hora_pronostico": 49,
+        "valido_para": "2026-09-23T19:00:00+00:00",
+        "viento_10m_ms": 4.190367698669434,
+        "direccion_10m_deg": 7.3504180908203125
+      },
+      {
+        "hora_pronostico": 50,
+        "valido_para": "2026-09-23T20:00:00+00:00",
+        "viento_10m_ms": 4.576104164123535,
+        "direccion_10m_deg": 11.158035278320312
+      },
+      {
+        "hora_pronostico": 51,
+        "valido_para": "2026-09-23T21:00:00+00:00",
+        "viento_10m_ms": 5.370511054992676,
+        "direccion_10m_deg": 18.60936737060547
+      },
+      {
+        "hora_pronostico": 52,
+        "valido_para": "2026-09-23T22:00:00+00:00",
+        "viento_10m_ms": 5.108818531036377,
+        "direccion_10m_deg": 33.780540466308594
+      },
+      {
+        "hora_pronostico": 53,
+        "valido_para": "2026-09-23T23:00:00+00:00",
+        "viento_10m_ms": 6.824090480804443,
+        "direccion_10m_deg": 11.99951171875
+      },
+      {
+        "hora_pronostico": 54,
+        "valido_para": "2026-09-24T00:00:00+00:00",
+        "viento_10m_ms": 8.45605754852295,
+        "direccion_10m_deg": 7.994956970214844
+      },
+      {
+        "hora_pronostico": 55,
+        "valido_para": "2026-09-24T01:00:00+00:00",
+        "viento_10m_ms": 7.01162052154541,
+        "direccion_10m_deg": 359.35565185546875
+      },
+      {
+        "hora_pronostico": 56,
+        "valido_para": "2026-09-24T02:00:00+00:00",
+        "viento_10m_ms": 7.068125247955322,
+        "direccion_10m_deg": 354.92340087890625
+      },
+      {
+        "hora_pronostico": 57,
+        "valido_para": "2026-09-24T03:00:00+00:00",
+        "viento_10m_ms": 6.859371662139893,
+        "direccion_10m_deg": 345.1811218261719
+      },
+      {
+        "hora_pronostico": 58,
+        "valido_para": "2026-09-24T04:00:00+00:00",
+        "viento_10m_ms": 6.510550498962402,
+        "direccion_10m_deg": 341.3497009277344
+      },
+      {
+        "hora_pronostico": 59,
+        "valido_para": "2026-09-24T05:00:00+00:00",
+        "viento_10m_ms": 6.5406317710876465,
+        "direccion_10m_deg": 342.0401611328125
+      },
+      {
+        "hora_pronostico": 60,
+        "valido_para": "2026-09-24T06:00:00+00:00",
+        "viento_10m_ms": 5.855618953704834,
+        "direccion_10m_deg": 340.526611328125
+      },
+      {
+        "hora_pronostico": 61,
+        "valido_para": "2026-09-24T07:00:00+00:00",
+        "viento_10m_ms": 6.17007303237915,
+        "direccion_10m_deg": 344.76531982421875
+      },
+      {
+        "hora_pronostico": 62,
+        "valido_para": "2026-09-24T08:00:00+00:00",
+        "viento_10m_ms": 6.191967487335205,
+        "direccion_10m_deg": 346.23553466796875
+      },
+      {
+        "hora_pronostico": 63,
+        "valido_para": "2026-09-24T09:00:00+00:00",
+        "viento_10m_ms": 6.5137763023376465,
+        "direccion_10m_deg": 345.07244873046875
+      },
+      {
+        "hora_pronostico": 64,
+        "valido_para": "2026-09-24T10:00:00+00:00",
+        "viento_10m_ms": 6.242002487182617,
+        "direccion_10m_deg": 342.5963134765625
+      },
+      {
+        "hora_pronostico": 65,
+        "valido_para": "2026-09-24T11:00:00+00:00",
+        "viento_10m_ms": 6.063885688781738,
+        "direccion_10m_deg": 340.43548583984375
+      },
+      {
+        "hora_pronostico": 66,
+        "valido_para": "2026-09-24T12:00:00+00:00",
+        "viento_10m_ms": 7.453103065490723,
+        "direccion_10m_deg": 342.10601806640625
+      },
+      {
+        "hora_pronostico": 67,
+        "valido_para": "2026-09-24T13:00:00+00:00",
+        "viento_10m_ms": 7.046276569366455,
+        "direccion_10m_deg": 342.97894287109375
+      },
+      {
+        "hora_pronostico": 68,
+        "valido_para": "2026-09-24T14:00:00+00:00",
+        "viento_10m_ms": 6.362016201019287,
+        "direccion_10m_deg": 343.28533935546875
+      },
+      {
+        "hora_pronostico": 69,
+        "valido_para": "2026-09-24T15:00:00+00:00",
+        "viento_10m_ms": 5.078731060028076,
+        "direccion_10m_deg": 347.2231140136719
+      },
+      {
+        "hora_pronostico": 70,
+        "valido_para": "2026-09-24T16:00:00+00:00",
+        "viento_10m_ms": 4.389060020446777,
+        "direccion_10m_deg": 347.9681701660156
+      },
+      {
+        "hora_pronostico": 71,
+        "valido_para": "2026-09-24T17:00:00+00:00",
+        "viento_10m_ms": 4.108153343200684,
+        "direccion_10m_deg": 347.72955322265625
+      },
+      {
+        "hora_pronostico": 72,
+        "valido_para": "2026-09-24T18:00:00+00:00",
+        "viento_10m_ms": 3.599445343017578,
+        "direccion_10m_deg": 341.9318542480469
+      }
+    ],
+    "San Clemente del Tuyú": [
+      {
+        "hora_pronostico": 0,
+        "valido_para": "2026-09-21T18:00:00+00:00",
+        "viento_10m_ms": 11.20523738861084,
+        "direccion_10m_deg": 249.52261352539062
+      },
+      {
+        "hora_pronostico": 1,
+        "valido_para": "2026-09-21T19:00:00+00:00",
+        "viento_10m_ms": 12.431057929992676,
+        "direccion_10m_deg": 241.52183532714844
+      },
+      {
+        "hora_pronostico": 2,
+        "valido_para": "2026-09-21T20:00:00+00:00",
+        "viento_10m_ms": 12.772627830505371,
+        "direccion_10m_deg": 231.54283142089844
+      },
+      {
+        "hora_pronostico": 3,
+        "valido_para": "2026-09-21T21:00:00+00:00",
+        "viento_10m_ms": 9.981552124023438,
+        "direccion_10m_deg": 221.6332550048828
+      },
+      {
+        "hora_pronostico": 4,
+        "valido_para": "2026-09-21T22:00:00+00:00",
+        "viento_10m_ms": 8.81578540802002,
+        "direccion_10m_deg": 220.50563049316406
+      },
+      {
+        "hora_pronostico": 5,
+        "valido_para": "2026-09-21T23:00:00+00:00",
+        "viento_10m_ms": 9.57180404663086,
+        "direccion_10m_deg": 220.84963989257812
+      },
+      {
+        "hora_pronostico": 6,
+        "valido_para": "2026-09-22T00:00:00+00:00",
+        "viento_10m_ms": 6.924222469329834,
+        "direccion_10m_deg": 225.3094024658203
+      },
+      {
+        "hora_pronostico": 7,
+        "valido_para": "2026-09-22T01:00:00+00:00",
+        "viento_10m_ms": 6.174956321716309,
+        "direccion_10m_deg": 220.63088989257812
+      },
+      {
+        "hora_pronostico": 8,
+        "valido_para": "2026-09-22T02:00:00+00:00",
+        "viento_10m_ms": 6.376281261444092,
+        "direccion_10m_deg": 219.03787231445312
+      },
+      {
+        "hora_pronostico": 9,
+        "valido_para": "2026-09-22T03:00:00+00:00",
+        "viento_10m_ms": 5.162713050842285,
+        "direccion_10m_deg": 221.0973663330078
+      },
+      {
+        "hora_pronostico": 10,
+        "valido_para": "2026-09-22T04:00:00+00:00",
+        "viento_10m_ms": 5.119344711303711,
+        "direccion_10m_deg": 225.6146697998047
+      },
+      {
+        "hora_pronostico": 11,
+        "valido_para": "2026-09-22T05:00:00+00:00",
+        "viento_10m_ms": 5.2333221435546875,
+        "direccion_10m_deg": 229.6005096435547
+      },
+      {
+        "hora_pronostico": 12,
+        "valido_para": "2026-09-22T06:00:00+00:00",
+        "viento_10m_ms": 5.355393409729004,
+        "direccion_10m_deg": 226.15560913085938
+      },
+      {
+        "hora_pronostico": 13,
+        "valido_para": "2026-09-22T07:00:00+00:00",
+        "viento_10m_ms": 4.798067092895508,
+        "direccion_10m_deg": 241.33287048339844
+      },
+      {
+        "hora_pronostico": 14,
+        "valido_para": "2026-09-22T08:00:00+00:00",
+        "viento_10m_ms": 4.372419357299805,
+        "direccion_10m_deg": 236.1258544921875
+      },
+      {
+        "hora_pronostico": 15,
+        "valido_para": "2026-09-22T09:00:00+00:00",
+        "viento_10m_ms": 4.160521984100342,
+        "direccion_10m_deg": 239.3194122314453
+      },
+      {
+        "hora_pronostico": 16,
+        "valido_para": "2026-09-22T10:00:00+00:00",
+        "viento_10m_ms": 4.328863143920898,
+        "direccion_10m_deg": 243.22808837890625
+      },
+      {
+        "hora_pronostico": 17,
+        "valido_para": "2026-09-22T11:00:00+00:00",
+        "viento_10m_ms": 5.086122035980225,
+        "direccion_10m_deg": 233.67160034179688
+      },
+      {
+        "hora_pronostico": 18,
+        "valido_para": "2026-09-22T12:00:00+00:00",
+        "viento_10m_ms": 5.816058158874512,
+        "direccion_10m_deg": 228.59657287597656
+      },
+      {
+        "hora_pronostico": 19,
+        "valido_para": "2026-09-22T13:00:00+00:00",
+        "viento_10m_ms": 6.656290531158447,
+        "direccion_10m_deg": 215.95758056640625
+      },
+      {
+        "hora_pronostico": 20,
+        "valido_para": "2026-09-22T14:00:00+00:00",
+        "viento_10m_ms": 6.312521934509277,
+        "direccion_10m_deg": 215.66929626464844
+      },
+      {
+        "hora_pronostico": 21,
+        "valido_para": "2026-09-22T15:00:00+00:00",
+        "viento_10m_ms": 6.0493388175964355,
+        "direccion_10m_deg": 217.68589782714844
+      },
+      {
+        "hora_pronostico": 22,
+        "valido_para": "2026-09-22T16:00:00+00:00",
+        "viento_10m_ms": 4.98048210144043,
+        "direccion_10m_deg": 221.18069458007812
+      },
+      {
+        "hora_pronostico": 23,
+        "valido_para": "2026-09-22T17:00:00+00:00",
+        "viento_10m_ms": 4.89577054977417,
+        "direccion_10m_deg": 231.65187072753906
+      },
+      {
+        "hora_pronostico": 24,
+        "valido_para": "2026-09-22T18:00:00+00:00",
+        "viento_10m_ms": 4.715978145599365,
+        "direccion_10m_deg": 226.1559600830078
+      },
+      {
+        "hora_pronostico": 25,
+        "valido_para": "2026-09-22T19:00:00+00:00",
+        "viento_10m_ms": 2.1649627685546875,
+        "direccion_10m_deg": 162.705810546875
+      },
+      {
+        "hora_pronostico": 26,
+        "valido_para": "2026-09-22T20:00:00+00:00",
+        "viento_10m_ms": 5.1766581535339355,
+        "direccion_10m_deg": 129.635498046875
+      },
+      {
+        "hora_pronostico": 27,
+        "valido_para": "2026-09-22T21:00:00+00:00",
+        "viento_10m_ms": 4.353130340576172,
+        "direccion_10m_deg": 125.6037826538086
+      },
+      {
+        "hora_pronostico": 28,
+        "valido_para": "2026-09-22T22:00:00+00:00",
+        "viento_10m_ms": 3.6911470890045166,
+        "direccion_10m_deg": 123.16476440429688
+      },
+      {
+        "hora_pronostico": 29,
+        "valido_para": "2026-09-22T23:00:00+00:00",
+        "viento_10m_ms": 2.7096757888793945,
+        "direccion_10m_deg": 115.04872131347656
+      },
+      {
+        "hora_pronostico": 30,
+        "valido_para": "2026-09-23T00:00:00+00:00",
+        "viento_10m_ms": 1.7906475067138672,
+        "direccion_10m_deg": 91.87252807617188
+      },
+      {
+        "hora_pronostico": 31,
+        "valido_para": "2026-09-23T01:00:00+00:00",
+        "viento_10m_ms": 2.1150126457214355,
+        "direccion_10m_deg": 58.03583526611328
+      },
+      {
+        "hora_pronostico": 32,
+        "valido_para": "2026-09-23T02:00:00+00:00",
+        "viento_10m_ms": 2.668172597885132,
+        "direccion_10m_deg": 47.40403366088867
+      },
+      {
+        "hora_pronostico": 33,
+        "valido_para": "2026-09-23T03:00:00+00:00",
+        "viento_10m_ms": 3.099050760269165,
+        "direccion_10m_deg": 40.2434196472168
+      },
+      {
+        "hora_pronostico": 34,
+        "valido_para": "2026-09-23T04:00:00+00:00",
+        "viento_10m_ms": 3.337395429611206,
+        "direccion_10m_deg": 25.958755493164062
+      },
+      {
+        "hora_pronostico": 35,
+        "valido_para": "2026-09-23T05:00:00+00:00",
+        "viento_10m_ms": 3.875243902206421,
+        "direccion_10m_deg": 20.230323791503906
+      },
+      {
+        "hora_pronostico": 36,
+        "valido_para": "2026-09-23T06:00:00+00:00",
+        "viento_10m_ms": 4.3179521560668945,
+        "direccion_10m_deg": 14.273750305175781
+      },
+      {
+        "hora_pronostico": 37,
+        "valido_para": "2026-09-23T07:00:00+00:00",
+        "viento_10m_ms": 4.655771255493164,
+        "direccion_10m_deg": 3.5313720703125
+      },
+      {
+        "hora_pronostico": 38,
+        "valido_para": "2026-09-23T08:00:00+00:00",
+        "viento_10m_ms": 4.814688205718994,
+        "direccion_10m_deg": 350.2354431152344
+      },
+      {
+        "hora_pronostico": 39,
+        "valido_para": "2026-09-23T09:00:00+00:00",
+        "viento_10m_ms": 5.265012741088867,
+        "direccion_10m_deg": 344.390869140625
+      },
+      {
+        "hora_pronostico": 40,
+        "valido_para": "2026-09-23T10:00:00+00:00",
+        "viento_10m_ms": 5.261692047119141,
+        "direccion_10m_deg": 339.1700134277344
+      },
+      {
+        "hora_pronostico": 41,
+        "valido_para": "2026-09-23T11:00:00+00:00",
+        "viento_10m_ms": 6.065755844116211,
+        "direccion_10m_deg": 327.8106994628906
+      },
+      {
+        "hora_pronostico": 42,
+        "valido_para": "2026-09-23T12:00:00+00:00",
+        "viento_10m_ms": 7.587371826171875,
+        "direccion_10m_deg": 332.2814025878906
+      },
+      {
+        "hora_pronostico": 43,
+        "valido_para": "2026-09-23T13:00:00+00:00",
+        "viento_10m_ms": 7.849607944488525,
+        "direccion_10m_deg": 333.50653076171875
+      },
+      {
+        "hora_pronostico": 44,
+        "valido_para": "2026-09-23T14:00:00+00:00",
+        "viento_10m_ms": 8.1114501953125,
+        "direccion_10m_deg": 340.9223937988281
+      },
+      {
+        "hora_pronostico": 45,
+        "valido_para": "2026-09-23T15:00:00+00:00",
+        "viento_10m_ms": 8.425033569335938,
+        "direccion_10m_deg": 344.15850830078125
+      },
+      {
+        "hora_pronostico": 46,
+        "valido_para": "2026-09-23T16:00:00+00:00",
+        "viento_10m_ms": 8.62112808227539,
+        "direccion_10m_deg": 348.69476318359375
+      },
+      {
+        "hora_pronostico": 47,
+        "valido_para": "2026-09-23T17:00:00+00:00",
+        "viento_10m_ms": 9.135685920715332,
+        "direccion_10m_deg": 355.57171630859375
+      },
+      {
+        "hora_pronostico": 48,
+        "valido_para": "2026-09-23T18:00:00+00:00",
+        "viento_10m_ms": 9.730537414550781,
+        "direccion_10m_deg": 353.58099365234375
+      },
+      {
+        "hora_pronostico": 49,
+        "valido_para": "2026-09-23T19:00:00+00:00",
+        "viento_10m_ms": 8.928354263305664,
+        "direccion_10m_deg": 354.7095947265625
+      },
+      {
+        "hora_pronostico": 50,
+        "valido_para": "2026-09-23T20:00:00+00:00",
+        "viento_10m_ms": 8.55078411102295,
+        "direccion_10m_deg": 1.0796661376953125
+      },
+      {
+        "hora_pronostico": 51,
+        "valido_para": "2026-09-23T21:00:00+00:00",
+        "viento_10m_ms": 8.541029930114746,
+        "direccion_10m_deg": 5.406837463378906
+      },
+      {
+        "hora_pronostico": 52,
+        "valido_para": "2026-09-23T22:00:00+00:00",
+        "viento_10m_ms": 8.525837898254395,
+        "direccion_10m_deg": 5.649330139160156
+      },
+      {
+        "hora_pronostico": 53,
+        "valido_para": "2026-09-23T23:00:00+00:00",
+        "viento_10m_ms": 7.366382122039795,
+        "direccion_10m_deg": 7.821746826171875
+      },
+      {
+        "hora_pronostico": 54,
+        "valido_para": "2026-09-24T00:00:00+00:00",
+        "viento_10m_ms": 6.772246360778809,
+        "direccion_10m_deg": 2.9652786254882812
+      },
+      {
+        "hora_pronostico": 55,
+        "valido_para": "2026-09-24T01:00:00+00:00",
+        "viento_10m_ms": 7.8861846923828125,
+        "direccion_10m_deg": 351.3485107421875
+      },
+      {
+        "hora_pronostico": 56,
+        "valido_para": "2026-09-24T02:00:00+00:00",
+        "viento_10m_ms": 8.160021781921387,
+        "direccion_10m_deg": 343.18206787109375
+      },
+      {
+        "hora_pronostico": 57,
+        "valido_para": "2026-09-24T03:00:00+00:00",
+        "viento_10m_ms": 7.288654804229736,
+        "direccion_10m_deg": 340.0396423339844
+      },
+      {
+        "hora_pronostico": 58,
+        "valido_para": "2026-09-24T04:00:00+00:00",
+        "viento_10m_ms": 6.5136494636535645,
+        "direccion_10m_deg": 336.8208312988281
+      },
+      {
+        "hora_pronostico": 59,
+        "valido_para": "2026-09-24T05:00:00+00:00",
+        "viento_10m_ms": 6.217519283294678,
+        "direccion_10m_deg": 334.3436279296875
+      },
+      {
+        "hora_pronostico": 60,
+        "valido_para": "2026-09-24T06:00:00+00:00",
+        "viento_10m_ms": 6.019545555114746,
+        "direccion_10m_deg": 328.7952880859375
+      },
+      {
+        "hora_pronostico": 61,
+        "valido_para": "2026-09-24T07:00:00+00:00",
+        "viento_10m_ms": 6.265777111053467,
+        "direccion_10m_deg": 331.03240966796875
+      },
+      {
+        "hora_pronostico": 62,
+        "valido_para": "2026-09-24T08:00:00+00:00",
+        "viento_10m_ms": 6.294232368469238,
+        "direccion_10m_deg": 331.5526428222656
+      },
+      {
+        "hora_pronostico": 63,
+        "valido_para": "2026-09-24T09:00:00+00:00",
+        "viento_10m_ms": 6.828089714050293,
+        "direccion_10m_deg": 333.1296691894531
+      },
+      {
+        "hora_pronostico": 64,
+        "valido_para": "2026-09-24T10:00:00+00:00",
+        "viento_10m_ms": 6.913182258605957,
+        "direccion_10m_deg": 333.4039306640625
+      },
+      {
+        "hora_pronostico": 65,
+        "valido_para": "2026-09-24T11:00:00+00:00",
+        "viento_10m_ms": 7.144534111022949,
+        "direccion_10m_deg": 332.3945617675781
+      },
+      {
+        "hora_pronostico": 66,
+        "valido_para": "2026-09-24T12:00:00+00:00",
+        "viento_10m_ms": 7.562648296356201,
+        "direccion_10m_deg": 328.36553955078125
+      },
+      {
+        "hora_pronostico": 67,
+        "valido_para": "2026-09-24T13:00:00+00:00",
+        "viento_10m_ms": 7.652957439422607,
+        "direccion_10m_deg": 331.91290283203125
+      },
+      {
+        "hora_pronostico": 68,
+        "valido_para": "2026-09-24T14:00:00+00:00",
+        "viento_10m_ms": 7.203370094299316,
+        "direccion_10m_deg": 336.467529296875
+      },
+      {
+        "hora_pronostico": 69,
+        "valido_para": "2026-09-24T15:00:00+00:00",
+        "viento_10m_ms": 8.307374954223633,
+        "direccion_10m_deg": 347.2109069824219
+      },
+      {
+        "hora_pronostico": 70,
+        "valido_para": "2026-09-24T16:00:00+00:00",
+        "viento_10m_ms": 8.401902198791504,
+        "direccion_10m_deg": 350.59857177734375
+      },
+      {
+        "hora_pronostico": 71,
+        "valido_para": "2026-09-24T17:00:00+00:00",
+        "viento_10m_ms": 8.82949447631836,
+        "direccion_10m_deg": 353.18865966796875
+      },
+      {
+        "hora_pronostico": 72,
+        "valido_para": "2026-09-24T18:00:00+00:00",
+        "viento_10m_ms": 8.750983238220215,
+        "direccion_10m_deg": 352.54608154296875
+      }
+    ]
+  }
+}
