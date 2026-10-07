@@ -3,14 +3,22 @@ name: Capturar viento pronosticado SMN
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '30 5,11,17,23 * * *'
+    # Cada hora. El script solo captura ciclos COMPLETOS que todavía no tiene,
+    # así que cada ciclo (00/06/12/18Z) se levanta apenas el SMN termina de
+    # publicarlo, y si no hay nada nuevo termina en segundos sin commitear.
+    - cron: '20 * * * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: captura-viento
+  cancel-in-progress: false
+
 jobs:
   capturar:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -24,10 +32,15 @@ jobs:
       - name: Capturar viento
         run: python capturar_viento.py
 
+      # always(): si un ciclo falla pero otro se capturó bien, igual se guarda lo bueno
       - name: Guardar resultado en el repo
+        if: always()
         run: |
           git config user.name 'smn-capture-bot'
           git config user.email 'bot@users.noreply.github.com'
           git add data/
-          git diff --staged --quiet || git commit -m 'Captura de viento pronosticado SMN'
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m 'Captura de viento pronosticado SMN'
+            git pull --rebase
+            git push
+          fi
